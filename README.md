@@ -2,7 +2,7 @@
 
 This is the repository of the website [awscommunitynordics.org](https://awscommunitynordics.org/).
 
-It is hosted directly from this repository as a [GitHub Pages](https://pages.github.com/) website.
+It is hosted directly from this repository in Netflify.
 
 ## Prerequisites
 
