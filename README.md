@@ -2,16 +2,20 @@
 
 This is the repository of the website [awscommunitynordics.org](https://awscommunitynordics.org/).
 
-It is hosted directly from this repository as a [GitHub Pages](https://pages.github.com/) website.
+It is hosted directly from this repository in Netflify.
 
-## Prerequisites
+# Running development environment locally
 
-Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
+If you are developing major changes, it makes sense to test and validate the changes locally using Jekyll installation. If you are doing small changes, like fixing a typo, those can be done directly to the repository witn no need to install anything locally, though it is highly advisable, so you won't break anything in production.
 
 ## Installation
 
+### Prerequisites
+
+Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
+
 ### Install jekyll locally on your computer
-This GitHub Pages site is [configured to be published from the `/docs` folder on the `master` branch](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch). Change directory to that folder `cd docs`.
+This Netlify site is configured to be published from the `/docs` folder on the `master` branch. Change directory to that folder `cd docs`.
 
 Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the [GitHub Pages](docs/Gemfile) gem:
 
