@@ -12,7 +12,7 @@ If you are developing major changes, it makes sense to test and validate the cha
 
 ### Prerequisites
 
-Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
+Install Ruby 3.1.3 and Bundler if you don't have them already.
 
 ### Install jekyll locally on your computer
 This Netlify site is configured to be published from the `/docs` folder on the `master` branch. Change directory to that folder `cd docs`.
