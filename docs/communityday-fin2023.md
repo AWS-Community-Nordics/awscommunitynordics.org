@@ -58,13 +58,13 @@ image: "og-communityday.png"
         </tr>
       </thead>
 	  	<tbody>
-        <tr>
+            <tr>
 			  	<th scope="row" class="time">8:00 - 9:00</th>
-  				<td colspan="4"><b>Registration and Breakfast</b></td>
+  				<td colspan="5"><b>Registration and Breakfast</b></td>
   			</tr>
 	  		<tr>
 		  		<th scope="row" class="time">9:00 - 9:15</th>
-				  <td colspan="4"><b>Opening Remarks</b></td>
+				  <td colspan="5"><b>Opening Remarks</b></td>
 			  </tr>
   			<tr>
 	  			<th scope="row" class="time">9:15 - 10.00</th>
@@ -72,23 +72,131 @@ image: "og-communityday.png"
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">10:00 - 12:00</th>
-				  <td colspan="4"><b>Sessions</b></td>
+				  <td>
+				    <p>
+				      <b>Event-Driven and serverless in world of IoT</b> (10:00)<br />
+                      Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a>
+				    </p>
+                    <p>
+                      <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design </b> (11:15)<br />
+                      Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a>
+                    </p>
+                  </td>
+                  <td>
+                        <p>
+                          <b>TBD</b> (10:00)<br />
+                          Mattias Svensson
+                        </p>
+                        <p>
+                          <b>AWS Disaster Recovery Simulation</b> (10:30)<br />
+                          Pekka Korolainen
+                        </p>
+                        <p>
+                          <b>CDK-based Continuous Deployment for OSS</b> (11:15)<br />
+                          Laura Vuorenoja <a href="https://twitter.com/vuorenoja" target="_blank"><i class="fab fa-twitter"></i></a><br />
+                        </p>
+                  </td>
+                  <td>
+                    <p>
+                      <b>How Firstbeat boosted its productivity in heart rate variability analytics</b> (10:15) <br/>
+                      Janne Kuha <a href="https://www.linkedin.com/in/jannekuha/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+                    </p>
+                    <p>
+                      <b>Infrastructure FROM Code: Logical evolution of the cloud </b> (10:45)<br />
+                      Emrah Samdan <a href="https://www.linkedin.com/in/emrahsamdan/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                  </td>
+                  <td><b>&nbsp;</b></td>
 			  </tr>
-        <tr>
+              <tr>
 				  <th scope="row" class="time">12:00 - 13:00</th>
 				  <td colspan="4"><b>Lunch Break and Networking</b></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">13:00 - 14:45</th>
-				  <td colspan="4"><b>Sessions</b></td>
+				  <td>
+                    <p>
+                      <b>Serverless Data Streaming with Kinesis and AWS Lambda</b> (13:00)<br />
+                      Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a>
+                    </p>
+                    <p>
+                      <b>(Re)Architecting for the Cloud by disconnecting things</b> (14:00)<br />
+                      Ari Palo <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a>
+                    </p>
+                  </td>
+                  <td>
+                    <p>
+                      <b>Cloud Hacking Scenarios</b> (13:00)<br />
+                      Michal Brygidyn <a href="https://www.linkedin.com/in/michalbrygidyn/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                    <p>
+                      <b>TBD</b> (14:00)<br />
+                      TBD
+                    </p>
+                  </td>
+                  <td>
+                    <p>
+                      <b> Thinking beyond the default VPC</b> (13:00)<br />
+                      Petri Kallberg <a href="https://www.linkedin.com/in/petrikallberg/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                    <p>
+                      <b>Common API with API Gateway and Lambdas</b> (13:30)<br />
+                      Simo Haakana <a href="https://www.linkedin.com/in/simohaakana/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                    <p>
+                      <b> Step Up Your StepFunctions: Turbocharge Your State Machine Building</b> (14:00)<br />
+                      Lars Jacobsson <a href="https://www.linkedin.com/in/lars-jacobsson-a9518b23/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                    <p>
+                      <b>Well-Architecting Sustainably</b> (14.30)<br />
+                      Niklas Westerstråhle <a href="https://www.linkedin.com/in/niklaswesterstrahle/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                  </td>
 			  </tr>
-        <tr>
+              <tr>
 				  <th scope="row" class="time">14:45 - 15:15</th>
 				  <td colspan="4"><b>Coffee Break</b></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">15:15 - 17:00</th>
-				  <td colspan="4"><b>Sessions</b></td>
+				  <td>
+                    <p>
+                      <b>Doing serverless on AWS with Terraform for real</b> (15:15)<br />
+                      Anton Babenko <a href="https://github.com/antonbabenko" target="_blank"><i class="fab fa-github"></i></a>
+                    </p>
+                    <p>
+                      <b>Securing AWS Workloads at Scale</b> (16:15)<br />
+                      Nick Jones <a href="https://twitter.com/nojonesuk/" target="_blank"><i class="fab fa-twitter"></i></a>
+                    </p>
+                  </td>
+                  <td>
+                    <p>
+                      <b> It's not you, it's me - Blameless as a culture and how to leverage it to learn more about yourself</b> (15:15)<br />
+                      Marcus Bladh <a href="https://twitter.com/m_bladh" target="_blank"><i class="fab fa-twitter"></i></a>
+                    </p>
+                    <p>
+                      <b>A song of Decentralization and Observability: Dance with OpenTelemetry</b> (16:15)<br />
+                      Aritra Nag <a href="https://www.linkedin.com/in/aritra-nag-1571a278/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                  </td>
+                  <td>
+                    <p>
+                      <b>How adversaries see your cloud</b> (15:15)<br />
+                      Tuomo Makkonen <a href="https://twitter.com/tmakkonen" target="_blank"><i class="fab fa-twitter"></i></a>
+                    </p>
+                    <p>
+                      <b>Security Lake - Experience Working with a Preview AWS Service</b> (15:45)<br />
+                      Alari Varmann <a href="https://www.linkedin.com/in/alarivarmann/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                    <p>
+                      <b>Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration at Scale</b> (16:15)<br />
+                      Bruno Amaro Almeida <a href="https://linkedin.com/in/brunoamaroalmeida" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+                    <p>
+                      <b>Common Fate: A platform for managing temporary elevated AWS access</b> (16:45)<br />
+                      Theo Mylonidis
+                    </p>
+                  </td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">17:00</th>
@@ -226,7 +334,7 @@ image: "og-communityday.png"
           </div>
           <br />
           <div class="col text-left">
-            <b>Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration at Scale - <a href="https://linkedin.com/in/brunoamaroalmeida" target="_blank"><i class="fab fa-linkedin"></i></a></b><br />
+            <b>Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration at Scale - Bruno Amaro Almeida <a href="https://linkedin.com/in/brunoamaroalmeida" target="_blank"><i class="fab fa-linkedin"></i></a></b><br />
             There are many challenges and implications in enterprise public cloud management. The approach that worked for decades regarding on-premises datacenters and IT does not scale when it comes to public cloud operations. The increased technology complexity combined with a faster pace world that is accelerating it’s digital transformation needs cloud operations to be revised. In this talk, we are going to explore how cloud platforms evolved in an enterprise setting. I will share some real-world experiences, war stories and best practices to accelerate and enable a digital innovation culture in enterprises.
           </div>
       </div>
