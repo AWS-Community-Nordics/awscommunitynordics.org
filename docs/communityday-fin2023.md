@@ -140,7 +140,9 @@ image: "og-communityday.png"
     <b>Anders Björnestad</b><br>
     <b>Arne Solheim</b><br>
     <b>Pekka Malmirae</b><br>
-    <b>Marcus Bladh</b>
+    <b>Marcus Bladh</b><br>
+    <b>Aki Ristkari</b><br>
+    <b>Harri Lakkala</b>
   </p>
   <a name="previous"></a>
   <h2 class="mt-4">Previous events</h2>
