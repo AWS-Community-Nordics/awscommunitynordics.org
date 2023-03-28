@@ -28,7 +28,7 @@ image: "og-communityday.png"
   <p class="mt-4">The AWS Community Day Nordics is a free full day event for AWS users to come together to network, learn from each other and get inspired. The event is organized by the community - for the community.
   </p>
   <p>
-  The AWS Community Day Nordics is a cloud education event where participants are able to learn best practices and latest trends for deploying applications on AWS. The event delivers a peer-to-peer learning experience, providing the people with a venue for them to acquire AWS knowledge in their preferred way: from one another. 
+  The AWS Community Day Nordics is a cloud education event where participants are able to learn best practices and latest trends for deploying applications on AWS. The event delivers a peer-to-peer learning experience, providing the people with a venue for them to acquire AWS knowledge in their preferred way: from one another.
   </p>
   <p>
   Speakers are expert AWS users from the community - including AWS User Group leaders, AWS Community Builders, AWS Ambassadors and AWS Heroes - with real life experience in the AWS topics they are presenting.
@@ -64,15 +64,15 @@ image: "og-communityday.png"
   			</tr>
 	  		<tr>
 		  		<th scope="row" class="time">9:00 - 9:15</th>
-				  <td colspan="4"><b>Opening Remarks</b></td>			  
+				  <td colspan="4"><b>Opening Remarks</b></td>
 			  </tr>
   			<tr>
 	  			<th scope="row" class="time">9:15 - 10.00</th>
-				  <td colspan="4"><b>Keynote</b></td>			  
+				  <td colspan="4"><b>Keynote</b></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">10:00 - 12:00</th>
-				  <td colspan="4"><b>Sessions</b></td>			  
+				  <td colspan="4"><b>Sessions</b></td>
 			  </tr>
         <tr>
 				  <th scope="row" class="time">12:00 - 13:00</th>
@@ -80,7 +80,7 @@ image: "og-communityday.png"
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">13:00 - 14:45</th>
-				  <td colspan="4"><b>Sessions</b></td>			  
+				  <td colspan="4"><b>Sessions</b></td>
 			  </tr>
         <tr>
 				  <th scope="row" class="time">14:45 - 15:15</th>
@@ -88,7 +88,7 @@ image: "og-communityday.png"
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">15:15 - 17:00</th>
-				  <td colspan="4"><b>Sessions</b></td>			  
+				  <td colspan="4"><b>Sessions</b></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">17:00</th>
@@ -103,10 +103,19 @@ image: "og-communityday.png"
 
   <a name="speakers"></a>
   <h2 class="mt-4">Talks &amp; Speakers</h2>
-  <p>
-  Speakers so be announced shortly!
-  </p>
-  
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Event-Driven and serverless in world of IoT</b><br />
+            Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a><br />
+            In a large IoT system, with thousands or millions of IoT devices, the load can vary heavily over the day. Data and control messages flow in a rapid and often unpredictable way. This makes these systems a good fit for a serverless and event-driven architecture. In this session we will learn about architecture patterns used, how serverless and event-driven play a central role in the success. We will also look at challenges and lesson learned during development.
+          </div>
+          <div class="col text-left">
+            <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design</b><br />
+            Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a><br />
+            Event-Driven Architectures (EDAs) allow complex application landscapes to efficiently integrate. However, an organically grown EDA can be messy. In this talk I will present 10 simple rules to organize and standardize event-driven systems, which will help you build future-proof implementations.
+          </div>
+      </div>
+
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
@@ -119,7 +128,7 @@ image: "og-communityday.png"
     <div class="col text-center"><a href="https://almamedia.dev/" target="_blank"><img src="/content/img/alma_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.cloud2.fi/" target="_blank"><img src="/content/img/cloud2_logo.jpg" class="communityday-sponsor-small"></a></div>
   </div>
-  
+
   <!--End mc_embed_signup-->
   <a name="contact"></a>
   <h2 class="mt-4">Contact &amp; Organizers</h2>
