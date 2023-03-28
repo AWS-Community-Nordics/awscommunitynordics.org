@@ -152,6 +152,12 @@ image: "og-communityday.png"
                       Niklas Westerstråhle <a href="https://www.linkedin.com/in/niklaswesterstrahle/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </p>
                   </td>
+                  <td>
+                     <p>
+                       <b> Serverlesspresso Workshop</b> (13:00)<br />
+                       Marcia Villalba <a href="https://twitter.com/mavi888uy" target="_blank"><i class="fab fa-twitter"></i></a>
+                     </p>
+                  </td>
 			  </tr>
               <tr>
 				  <th scope="row" class="time">14:45 - 15:15</th>
@@ -196,6 +202,12 @@ image: "og-communityday.png"
                       <b>Common Fate: A platform for managing temporary elevated AWS access</b> (16:45)<br />
                       Theo Mylonidis
                     </p>
+                  </td>
+                  <td>
+                     <p>
+                       <b> Serverlesspresso Workshop continued</b><br />
+                       Marcia Villalba <a href="https://twitter.com/mavi888uy" target="_blank"><i class="fab fa-twitter"></i></a>
+                     </p>
                   </td>
 			  </tr>
 			  <tr>
