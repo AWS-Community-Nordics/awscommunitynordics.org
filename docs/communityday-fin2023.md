@@ -136,13 +136,14 @@ image: "og-communityday.png"
   </p>
   <h3>Supporting Organizers</h3>
   <p>
-    <b>Anurag Kale</b><br>
     <b>Anders Björnestad</b><br>
-    <b>Arne Solheim</b><br>
-    <b>Pekka Malmirae</b><br>
     <b>Marcus Bladh</b><br>
+    <b>Jimmy Dahlqvist</b><br>
+    <b>Anurag Kale</b><br>
+    <b>Harri Lakkala</b><br>
+    <b>Pekka Malmirae</b><br>
     <b>Aki Ristkari</b><br>
-    <b>Harri Lakkala</b>
+    <b>Arne Solheim</b>
   </p>
   <a name="previous"></a>
   <h2 class="mt-4">Previous events</h2>
