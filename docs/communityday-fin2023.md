@@ -175,6 +175,67 @@ image: "og-communityday.png"
             Firstbeat Technologies has analyzed over 100 billion heartbeats and created large datasets that must be re-analyzed when developing and updating algorithms. Running a new version of an analytics algorithm could take up to 4-5 days with the existing solution running on on-premise servers. Instead of a traditional lift-and-shift approach, the team devised a solution that relies on a serverless approach and massive scalability when needed. With the new solution, the team can run analytics jobs in the cloud in less than one hour, costing a few euros per run. Discover how the team used technologies like AWS Glue, AWS Batch, and AWS Step Functions to solve the analytics challenge.
           </div>
       </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Infrastructure FROM Code: Logical evolution of the cloud - Emrah Samdan <a href="https://www.linkedin.com/in/emrahsamdan/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
+            Since the advent of the concept of cloud computing, developers and DevOps people have tried various methods to manage cloud infrastructure. Infrastructure as Code has become the primary method in this regard with its repeatable and reliable structure. However, the increasingly difficult and fragmented nature of the cloud cause more IaC code written on Terraform, Pulumi or CloudFormation than just the code developed for a product's real value to its users. Developers spend more time deciding for the appropriate architecture and configuring it than the business logic. Infrastructure FROM Code aims to make cloud application development absurdly easy by coming up with a new solution to eliminate this problem. In this short talk, I will talk about the birth of Infrastructure FROM Code, its state as of 2023 and where it can(and can't) be used in the future.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b> Cost optimisation and need for refactoring - Jali Pieskä </b><br />
+            In this talk it is presented ways and reasons why cost optimisation is needed regularly. Usually rightsizing and autoscaling of environments is not enough. One need to do refactoring of architecture. Cost optimisation also relates to Sustainability in the cloud.
+          </div>
+      </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>How to DDoS yourself while redeploying your AWS Lambda - Askar Ibragimov </b><br />
+            While redeploying an AWS Lambda, we found an interesting way to DDoS and bring down an entire system, despite external traffic being perfectly normal. I explain how it is possible and what can be done to avoid similar situations.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b> Thinking beyond the default VPC - Petri Kallberg <a href="https://www.linkedin.com/in/petrikallberg/" target="_blank"><i class="fab fa-linkedin"></i></a></b><br />
+            Speed run through questions, with some potential answers, one should be thinking before/during AWS network setup. Including, but not limited to, details of VPC CIDRs, subnets, routing, IPAM, TGWs, firewalls etc.
+          </div>
+      </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Common API with API Gateway and Lambdas - Simo Haakana <a href="https://www.linkedin.com/in/simohaakana/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
+            Barona has successfully constructed a common API using AWS API Gateway and Lambda endpoints. This has allowed Barona to unify multiple APIs into one and integrate microservices and SaaS software into a single API for developers. The business goal of simplifying architecture, enabling better monitoring, and providing unified access control has been achieved. In this session, we will explain the iterations of the solution from its initial SAM and CDK setup to its current SST based setup.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b> Step Up Your StepFunctions: Turbocharge Your State Machine Building - Lars Jacobsson <a href="https://www.linkedin.com/in/lars-jacobsson-a9518b23/" target="_blank"><i class="fab fa-linkedin"></i></a></b><br />
+            AWS StepFunctions is a powerful serverless workflow orchestrator that lets us design and run low-code state machines. They can, however, be quite time consuming to create In this demo I will showcase two open-source tools that help StepFunctions builders spend a lot less time composing ASL and instead focus on the problem they want to solve. One of them sets up a real-time sync between StepFunctions Worfklow Studio and your local file system and the other keeps a real time sync between your local machine and AWS. Previous experience of StepFunctions, CloudFormation/SAM and Workflow Studio is recommended.
+          </div>
+      </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Well-Architecting Sustainably - Niklas Westerstråhle <a href="https://www.linkedin.com/in/niklaswesterstrahle/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
+            Taking a look at Well-Architected Framework from Sustainability point of view, learning how to think about sustainability in your architecture.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b> How adversaries see your cloud - Tuomo Makkonen <a href="https://twitter.com/tmakkonen" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
+            A whirlwind tour of real-world attacks against AWS environments observed in the wild. How cyber criminals identify and exploit weaknesses in the cloud, and how to defend against attacks and detect them in time.
+          </div>
+      </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Security Lake - Experience Working with a Preview AWS Service - Alari Varmann <a href="https://www.linkedin.com/in/alarivarmann/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
+            Given the increasing amount of cyberattacks in the world and prior release of services such as Microsoft Sentinel, there’s lots of activity in the security domain. If you wish to protect your AWS Organization using AWS native or third party tools, all these services produce data in different formats which makes any security automation and incident response potentially inefficient, expensive and cumbersome.  In this talk, the listener will be introduced to the new AWS service in preview – Amazon Security Lake – a new service  empowering your AWS organization with an all-around capability to manage all the security data in one centralized data lake according to a standard adopted in the cybersecurity industry.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b>Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration at Scale - <a href="https://linkedin.com/in/brunoamaroalmeida" target="_blank"><i class="fab fa-linkedin"></i></a></b><br />
+            There are many challenges and implications in enterprise public cloud management. The approach that worked for decades regarding on-premises datacenters and IT does not scale when it comes to public cloud operations. The increased technology complexity combined with a faster pace world that is accelerating it’s digital transformation needs cloud operations to be revised. In this talk, we are going to explore how cloud platforms evolved in an enterprise setting. I will share some real-world experiences, war stories and best practices to accelerate and enable a digital innovation culture in enterprises.
+          </div>
+      </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Common Fate: A platform for managing temporary elevated AWS access - Theo Mylonidis </b><br />
+            At Qred, the challenge of giving elevated AWS access to developers for a limited amount of time is being addressed with the Common Fate open source project, which grants access in a secure, auditable & smooth way. Common Fate is being utilized in conjunction with AWS Identity Center and AWS Control Tower, allowing the CloudOps team to address some edge cases in which developers would normally be denied AWS access. This is achieved by approving requests for extended AWS permissions for a limited time and in an auditable manner.
+          </div>
+      </div>
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
