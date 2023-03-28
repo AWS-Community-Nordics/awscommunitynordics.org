@@ -105,14 +105,27 @@ image: "og-communityday.png"
   <h2 class="mt-4">Talks &amp; Speakers</h2>
       <div class="row pt-4">
           <div class="col text-left">
-            <b>Event-Driven and serverless in world of IoT</b><br />
-            Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a><br />
+            <b>Event-Driven and serverless in world of IoT - Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
             In a large IoT system, with thousands or millions of IoT devices, the load can vary heavily over the day. Data and control messages flow in a rapid and often unpredictable way. This makes these systems a good fit for a serverless and event-driven architecture. In this session we will learn about architecture patterns used, how serverless and event-driven play a central role in the success. We will also look at challenges and lesson learned during development.
           </div>
           <div class="col text-left">
-            <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design</b><br />
-            Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a><br />
+            <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design - Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
             Event-Driven Architectures (EDAs) allow complex application landscapes to efficiently integrate. However, an organically grown EDA can be messy. In this talk I will present 10 simple rules to organize and standardize event-driven systems, which will help you build future-proof implementations.
+          </div>
+      </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Serverless Data Streaming with Kinesis and AWS Lambda</b><br />
+            Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a><br />
+            In this talk, I will walk you through building scalable, production-ready data streaming applications using AWS Kinesis Data Streams and AWS Lambda. There will be plenty of tips, best practices and "gotchas" based on firsthand experience building serverless near real-time data streaming architectures. Together we will see how AWS services work and fail, and learn to embrace the failures. Because as Dr. Werner Vogels likes to say: everything fails, all the time.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b>(Re)Architecting for the Cloud by disconnecting things</b><br />
+            Ari Palo <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a><br />
+            Using “the cloud” is not a simple on/off switch, in reality it’s a journey; No matter if your organization is just starting the journey or already far along, this talk will provide you ideas how to "make the cloud work for you".
+            It showcases how approaches like Serverless, Asynchronous & Event-Driven Systems with patterns like Command Query Responsibility Segregation (CQRS) and fully utilizing the AWS feature catalogue can improve your ability to scale, secure your systems, manage cost and overall, better understand the state of your systems. The talk will also describe (and briefly showcase) how proper tooling such as AWS CDK can help.
+            This talk is based on 11+ years of AWS experience in Alma Media – a European digital services & media company – that also has "the magical 5 years of experience" with technologies such as Serverless and AWS Cloud Development Kit (CDK).
           </div>
       </div>
 
