@@ -54,7 +54,7 @@ image: "og-communityday.png"
 				  <th scope="col" width="24%">Track 1</th>
           <th scope="col" width="24%">Track 2</th>
           <th scope="col" width="24%">Track 3</th>
-          <th scope="col" width="24%">Workshop 2</th>
+          <th scope="col" width="24%">Workshop</th>
         </tr>
       </thead>
 	  	<tbody>
