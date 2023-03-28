@@ -142,6 +142,39 @@ image: "og-communityday.png"
             Attendees will come away with a clearer understanding of the real-world security threats to their AWS workloads, and actionable advice on what to prioritize to make sure their data and applications remain secure.
           </div>
       </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>AWS Disaster Recovery Simulation - Pekka Korolainen </b><br />
+            MIs your data safe and recoverable after a virus, a fire or just plain-old-code-gone-wrong drop tables your database? Every customer-facing production system should be thinking about risks the system is facing. Here are some thoughts collected after running two simulations in AWS to make sure a system can recover.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b>CDK-based Continuous Deployment for OSS - Laura Vuorenoja <a href="https://twitter.com/vuorenoja" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
+            Findy Agency (https://findy-network.github.io/) is a decentralized identity agency following a microservice architecture. The agency's fully open-sourced deployment pipeline utilizes AWS CDK and GitHub tooling to offload the deployment worries from the small team. Laura Vuorenoja from OP Lab has researched the area of self-sovereign and decentralized identity hands-on for several years. Together with her team, they have developed a unique solution for applications and individuals to utilize verifiable credentials. The project includes batteries; it provides even the deployment scripts as open-source. In this session, Laura will summarize her journey in building a continuous deployment pipeline with native AWS tools. She will present an overview of the project architecture and the anatomy of their project's current CDK pipeline.
+          </div>
+      </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Cloud Hacking Scenarios - Michal Brygidyn <a href="https://www.linkedin.com/in/michalbrygidyn/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
+            You’ve been hearing a lot about security best practices, but you’re not convinced they can really make a difference? Do you think your resources are safe only because nobody would notice your random IP address? If so – join my session! I’ll show you real-life attack scenarios to convince you that misconfigurations can have dire consequences.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b> It's not you, it's me - Blameless as a culture and how to leverage it to learn more about yourself - Marcus Bladh <a href="https://twitter.com/m_bladh" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
+            You are woken in the middle of the night by your phone. The database has crashed and we just lost all customer data. Morning comes around and it's time for a dreaded post-mortem. Long story short, it's Human Error. The intern broke it. When we have an incident we should always strive to learn from it. Pointing the finger at individuals doesn't solve the underlying problem and people won't feel comfortable speaking up if they don't feel safe. In this session we will talk about how we as an organisation can utilise Blameless to create a psychologically safe environment for our employees as well as build a culture where we learn from incidents.
+          </div>
+      </div>
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>A song of Decentralization and Observability: Dance with OpenTelemetry - Aritra Nag <a href="https://www.linkedin.com/in/aritra-nag-1571a278/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
+            With the latest release in the statistics on the CNCF projects, it is pretty obvious that OpenTelemetry is the recent trend in the developer community. It involves following standards about how to enable a single pane of glass to allow for visualizing traces, metrics, and logs as well as standardizing the practice of shipping telemetric data in the world of decentralized micro-service architectures. This Session will be focused on the OpenTelemetry features and how we adopt them in the AWS ecosystem to embed the practice in the workloads as composed configurable components.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b> How Firstbeat boosted its productivity in heart rate variability analytics - Janne Kuha <a href="https://www.linkedin.com/in/jannekuha/" target="_blank"><i class="fab fa-linkedin"></i></a></b><br />
+            Firstbeat Technologies has analyzed over 100 billion heartbeats and created large datasets that must be re-analyzed when developing and updating algorithms. Running a new version of an analytics algorithm could take up to 4-5 days with the existing solution running on on-premise servers. Instead of a traditional lift-and-shift approach, the team devised a solution that relies on a serverless approach and massive scalability when needed. With the new solution, the team can run analytics jobs in the cloud in less than one hour, costing a few euros per run. Discover how the team used technologies like AWS Glue, AWS Batch, and AWS Step Functions to solve the analytics challenge.
+          </div>
+      </div>
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
