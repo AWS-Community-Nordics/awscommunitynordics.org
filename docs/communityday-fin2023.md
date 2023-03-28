@@ -115,20 +115,33 @@ image: "og-communityday.png"
       </div>
       <div class="row pt-4">
           <div class="col text-left">
-            <b>Serverless Data Streaming with Kinesis and AWS Lambda</b><br />
-            Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a><br />
+            <b>Serverless Data Streaming with Kinesis and AWS Lambda - Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
             In this talk, I will walk you through building scalable, production-ready data streaming applications using AWS Kinesis Data Streams and AWS Lambda. There will be plenty of tips, best practices and "gotchas" based on firsthand experience building serverless near real-time data streaming architectures. Together we will see how AWS services work and fail, and learn to embrace the failures. Because as Dr. Werner Vogels likes to say: everything fails, all the time.
           </div>
           <br />
           <div class="col text-left">
-            <b>(Re)Architecting for the Cloud by disconnecting things</b><br />
-            Ari Palo <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a><br />
+            <b>(Re)Architecting for the Cloud by disconnecting things - Ari Palo <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
             Using “the cloud” is not a simple on/off switch, in reality it’s a journey; No matter if your organization is just starting the journey or already far along, this talk will provide you ideas how to "make the cloud work for you".
             It showcases how approaches like Serverless, Asynchronous & Event-Driven Systems with patterns like Command Query Responsibility Segregation (CQRS) and fully utilizing the AWS feature catalogue can improve your ability to scale, secure your systems, manage cost and overall, better understand the state of your systems. The talk will also describe (and briefly showcase) how proper tooling such as AWS CDK can help.
             This talk is based on 11+ years of AWS experience in Alma Media – a European digital services & media company – that also has "the magical 5 years of experience" with technologies such as Serverless and AWS Cloud Development Kit (CDK).
           </div>
       </div>
-
+      <div class="row pt-4">
+          <div class="col text-left">
+            <b>Doing serverless on AWS with Terraform for real - Anton Babenko <a href="https://github.com/antonbabenko" target="_blank"><i class="fab fa-github"></i></a></b><br />
+            More and more companies are adopting serverless technologies as the community is defining the best practices, tools, and patterns.
+            Companies using Terraform as their infrastructure as a code tool are often required to reinvent the wheel when they work with serverless.
+            In the talk, I will explain why managing serverless applications with Terraform is a good idea and how https://serverless.tf open-source project has started as an organic response to the accidental complexity of many existing tools used by serverless developers.
+            I will demo a complete serverless application (including building and deploying it) using Terraform and open-source components.
+          </div>
+          <br />
+          <div class="col text-left">
+            <b>Securing AWS Workloads at Scale - Nick Jones <a href="https://twitter.com/nojonesuk/" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
+            How do attackers target AWS workloads? What security controls really matter, what should you prioritize and what can be left for later?
+            Using his experience assessing the security of a wide range of organizations, Nick will talk through the most common attack scenarios in cloud-native environments, and the most critical security controls to have in place. This will consider not only the workloads themselves, but also supporting systems such as CI/CD platforms and authentication brokers.
+            Attendees will come away with a clearer understanding of the real-world security threats to their AWS workloads, and actionable advice on what to prioritize to make sure their data and applications remain secure.
+          </div>
+      </div>
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
