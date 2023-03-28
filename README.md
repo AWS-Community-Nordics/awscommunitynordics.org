@@ -17,13 +17,15 @@ Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-gith
 ### Install jekyll locally on your computer
 This Netlify site is configured to be published from the `/docs` folder on the `master` branch. Change directory to that folder `cd docs`.
 
-Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the [GitHub Pages](docs/Gemfile) gem:
+Install Jekyll gem and other [dependencies](docs/Gemfile):
 
 ```
 bundle install
 ```
 
 If your user account isn't allowed to install to the system RubyGems you can run `bundle install --path vendor/bundle` to install the gems locally.
+
+For MacOS install, you might want to check the [Jekyll documentation](https://jekyllrb.com/docs/installation/macos/).
 
 ## Serve
 
