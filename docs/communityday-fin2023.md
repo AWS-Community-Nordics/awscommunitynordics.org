@@ -45,13 +45,67 @@ image: "og-communityday.png"
   <h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2023-helsinki-tickets-536734576567" role="button">Registration is open</a></h2>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
-  <p class="mt-4">Agenda to be announced. The event hours are 9:00 - 17:00 with registration and coffee starting preliminarily at 8:00. Detailed times subject to change.
-  
+  <p class="mt-4">The event hours are 9:00 - 17:30 with registration and coffee starting preliminarily at 8:00. Detailed times and content subject to change. Always check back here for the latest version of the agenda.
+  <div style="overflow-x:auto;">
+    <table class="table table-striped" id="communityday-agenda">
+	  	<thead>
+		  	<tr>
+			  	<th scope="col" width="8%">Time</th>
+				  <th scope="col" width="24%">Track 1</th>
+          <th scope="col" width="24%">Track 2</th>
+          <th scope="col" width="24%">Track 3</th>
+          <th scope="col" width="24%">Workshop 2</th>
+        </tr>
+      </thead>
+	  	<tbody>
+        <tr>
+			  	<th scope="row" class="time">8:00 - 9:00</th>
+  				<td colspan="4"><b>Registration and Breakfast</b></td>
+  			</tr>
+	  		<tr>
+		  		<th scope="row" class="time">9:00 - 9:15</th>
+				  <td colspan="4"><b>Opening Remarks</b></td>			  
+			  </tr>
+  			<tr>
+	  			<th scope="row" class="time">9:15 - 10.00</th>
+				  <td colspan="4"><b>Keynote</b></td>			  
+			  </tr>
+			  <tr>
+				  <th scope="row" class="time">10:00 - 12:00</th>
+				  <td colspan="4"><b>Sessions</b></td>			  
+			  </tr>
+        <tr>
+				  <th scope="row" class="time">12:00 - 13:00</th>
+				  <td colspan="4"><b>Lunch Break and Networking</b></td>
+			  </tr>
+			  <tr>
+				  <th scope="row" class="time">13:00 - 14:45</th>
+				  <td colspan="4"><b>Sessions</b></td>			  
+			  </tr>
+        <tr>
+				  <th scope="row" class="time">14:45 - 15:15</th>
+				  <td colspan="4"><b>Coffee Break</b></td>
+			  </tr>
+			  <tr>
+				  <th scope="row" class="time">15:15 - 17:00</th>
+				  <td colspan="4"><b>Sessions</b></td>			  
+			  </tr>
+			  <tr>
+				  <th scope="row" class="time">17:00</th>
+				  <td colspan="4"><b>Closing Remarks and Community Raffle</b></td>
+			  </tr>
+		  </tbody>
+	  </table>
+    </div>
   </p>
+
+
+
   <a name="speakers"></a>
   <h2 class="mt-4">Talks &amp; Speakers</h2>
-  <p>We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
-  <p>If you are intressted in speaking, please fill in the <a href="https://docs.google.com/forms/d/1vDeLRUCl3RsxhSrB56-VPOimleV1QvjuLyl2W_xakhE">CFP</a> here.</p>
+  <p>
+  Speakers so be announced shortly!
+  </p>
   
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
