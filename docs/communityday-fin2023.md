@@ -21,7 +21,7 @@ image: "og-communityday.png"
     <div class="col text-center"><h5><a href="#tickets">Tickets</a></h5></div>
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
     <div class="col text-center"><h5><a href="#speakers">Talks &amp; Speakers</a></h5></div>
-    <div class="col text-center"><h5><a href="#workshops">Workshop</a></h5></div>
+    <div class="col text-center"><h5><a href="#workshop">Workshop</a></h5></div>
     <div class="col text-center"><h5><a href="#sponsors">Sponsors</a></h5></div>
   </div>
 
@@ -375,7 +375,7 @@ image: "og-communityday.png"
           </div>
       </div>
 
-  <a name="speakers"></a>
+  <a name="workshop"></a>
   <h2 class="mt-4">Workshop</h2>
   <p>In this workshop, Marcia Villalba, Principal Developer Advocate at AWS, will guide you through the Serverlessespresso workshop.</p>
   <p>
