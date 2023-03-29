@@ -21,7 +21,7 @@ image: "og-communityday.png"
     <div class="col text-center"><h5><a href="#tickets">Tickets</a></h5></div>
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
     <div class="col text-center"><h5><a href="#speakers">Talks &amp; Speakers</a></h5></div>
-    <div class="col text-center"><h5><a href="#workshops">Workshops</a></h5></div>
+    <div class="col text-center"><h5><a href="#workshops">Workshop</a></h5></div>
     <div class="col text-center"><h5><a href="#sponsors">Sponsors</a></h5></div>
   </div>
 
@@ -374,6 +374,15 @@ image: "og-communityday.png"
             I want to share how we at Qred use AWS service catalog and IaC to Standardise Data Scientist Development environment. We at Qred want our Data Scientist to focus on our ML modelling and not have to worry about AWS infrastructure and deployment pipelines. We create Sagemaker products in AWS Service catalog to make it easy to start a new project in Sagermaker studio. With one click from our Data Scientist they could create a complete new ML project with a Github repo injected with content like: 1. Github actions workflows, 2. Sagemaker pipeline, 3. S3 buckets, 4. Step function orchestrator lambdas, 5. Schedule retraining of models. Things that a Data Scientist wants to have before starting their data model development. This method could be used in other areas as well if you want to create blueprint projects in your organizations.
           </div>
       </div>
+
+  <a name="speakers"></a>
+  <h2 class="mt-4">Workshop</h2>
+  <p>In this workshop, Marcia Villalba, Principal Developer Advocate at AWS, will guide you through the Serverlessespresso workshop.</p>
+  <p>
+    Serverlesspresso is a pop-up coffee shop that provides premium espresso drinks at conferences and events.
+    You will build a serverless application to help the shop to accept orders and notify customers when their drinks are ready. Have fun and get caffeinated!
+  </p>
+
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
