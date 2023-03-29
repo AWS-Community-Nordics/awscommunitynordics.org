@@ -64,8 +64,15 @@ image: "og-communityday.png"
   			</tr>
 	  		<tr>
 		  		<th scope="row" class="time">9:00 - 9:15</th>
-				  <td colspan="5"><b>Opening Remarks</b></td>
-			  </tr>
+                <td colspan="5">
+                  <b>Opening Remarks</b>
+                  <p>
+                    Rolf Koski <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+                    Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+                    Antonio Lagrotteria <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                  </p>
+                </td>
+			</tr>
   			<tr>
 	  			<th scope="row" class="time">9:15 - 10.00</th>
 				  <td colspan="4"><b>Keynote</b></td>
@@ -84,7 +91,7 @@ image: "og-communityday.png"
                   </td>
                   <td>
                         <p>
-                          <b>TBD</b> (10:00)<br />
+                          <b>Standardise Data Scientist Development Environment</b> (10:00)<br />
                           Mattias Svensson
                         </p>
                         <p>
@@ -212,7 +219,14 @@ image: "og-communityday.png"
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">17:00</th>
-				  <td colspan="4"><b>Closing Remarks and Community Raffle</b></td>
+				  <td colspan="4">
+				    <b>Closing Remarks and Community Raffle</b>
+				    <p>
+                      Rolf Koski <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+                      Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+                      Antonio Lagrotteria <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    </p>
+				  </td>
 			  </tr>
 		  </tbody>
 	  </table>
