@@ -369,6 +369,10 @@ image: "og-communityday.png"
             <b>Common Fate: A platform for managing temporary elevated AWS access - Theo Mylonidis </b><br />
             At Qred, the challenge of giving elevated AWS access to developers for a limited amount of time is being addressed with the Common Fate open source project, which grants access in a secure, auditable & smooth way. Common Fate is being utilized in conjunction with AWS Identity Center and AWS Control Tower, allowing the CloudOps team to address some edge cases in which developers would normally be denied AWS access. This is achieved by approving requests for extended AWS permissions for a limited time and in an auditable manner.
           </div>
+          <div class="col text-left">
+            <b>Standardise Data Scientist Development Environment - Mattias Svensson </b><br />
+            I want to share how we at Qred use AWS service catalog and IaC to Standardise Data Scientist Development environment. We at Qred want our Data Scientist to focus on our ML modelling and not have to worry about AWS infrastructure and deployment pipelines. We create Sagemaker products in AWS Service catalog to make it easy to start a new project in Sagermaker studio. With one click from our Data Scientist they could create a complete new ML project with a Github repo injected with content like: 1. Github actions workflows, 2. Sagemaker pipeline, 3. S3 buckets, 4. Step function orchestrator lambdas, 5. Schedule retraining of models. Things that a Data Scientist wants to have before starting their data model development. This method could be used in other areas as well if you want to create blueprint projects in your organizations.
+          </div>
       </div>
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
