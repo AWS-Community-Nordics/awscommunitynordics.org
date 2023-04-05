@@ -32,7 +32,7 @@ image: "og-communityday.png"
   <!-- <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.7491261483115!2d18.06549851636592!3d59.337142181661534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d5d3e1359f5%3A0xbb175cb427e51869!2sNalen!5e0!3m2!1sen!2sse!4v1567588563257!5m2!1sen!2sse" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p> -->
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
-  <p class="mt-4">Agenda to be announced.
+  <p class="mt-4">Agenda has been published in the main event page. Questions about the agenda can be directed to the organizers.
   </p>
   <a name="equipment"></a>
   <h2 class="mt-4">Equipment</h2>
