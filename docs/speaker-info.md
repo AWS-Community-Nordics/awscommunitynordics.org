@@ -19,6 +19,7 @@ image: "og-communityday.png"
 
   <div class="row pt-4">
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
+    <div class="col text-center"><h5><a href="#dinner">Speaker Dinner</a></h5></div>
     <div class="col text-center"><h5><a href="#equipment">Equipment</a></h5></div>
     <div class="col text-center"><h5><a href="#deck">Slide decks & Content</a></h5></div>
     <div class="col text-center"><h5><a href="#recording">Recording</a></h5></div>
