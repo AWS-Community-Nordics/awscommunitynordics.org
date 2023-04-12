@@ -112,6 +112,14 @@ image: "og-communityday.png"
                       <b>Infrastructure FROM Code: Logical evolution of the cloud </b> (10:45)<br />
                       Emrah Samdan <a href="https://www.linkedin.com/in/emrahsamdan/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </p>
+                    <p>
+                      <b>Cost optimisation and need for refactoring </b> (11:15)<br />
+                      Jali Pieskä
+                    </p>
+                    <p>
+                      <b>How to DDoS yourself while redeploying your AWS Lambda </b> (11:45)<br />
+                      Askar Ibragimov
+                    </p>
                   </td>
                   <td><b>&nbsp;</b></td>
 			  </tr>
