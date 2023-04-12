@@ -34,13 +34,21 @@ image: "og-communityday.png"
   <h2 class="mt-4">Agenda</h2>
   <p class="mt-4">Agenda has been published in the main event page. Questions about the agenda can be directed to the organizers.
   </p>
+  <a name="dinner"></a>
+  <h2 class="mt-4">Speaker Dinner</h2>
+  <p class="mt-4">
+    Restaurant name: Shelter <br/>
+    Address: Kanavaranta 7, 00160 Helsinki<br/>
+    Website: https://www.shelter.fi/<br/>
+    Google Maps link: https://goo.gl/maps/q2ZBCPz3BnqY91oS6<br/>
+  </p>
   <a name="equipment"></a>
   <h2 class="mt-4">Equipment</h2>
   <p class="mt-4">There will be professional grade AV equipment in place on all of the stages. The speaker station will support HDMI and usb-c connectivity for the video, but you are expected to bring your own laptop to run the slides you have.
   </p>
   <a name="deck"></a>
   <h2 class="mt-4">Slide decks & Content</h2>
-  <p class="mt-4">You are expected to use title slide of the AWS Community Day design reflecting the sponsors, title and date of the talk. This is important as these will be shown also in the recordings. The event is international and the language used in the conference is English. All talk contents and written materials should support this to enable our diverse participants to consume the content. 
+  <p class="mt-4">You are expected to use title slide of the AWS Community Day design reflecting the sponsors, title and date of the talk. This is important as these will be shown also in the recordings. The event is international and the language used in the conference is English. All talk contents and written materials should support this to enable our diverse participants to consume the content.
   </p>
   <p>
   Slide deck template can be downloaded from <a href="/content/img/CommunityDayNordics2023_SlideTemplate.pptx">here</a>.
