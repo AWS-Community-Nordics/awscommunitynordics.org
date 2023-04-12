@@ -39,6 +39,7 @@ image: "og-communityday.png"
   <h2 class="mt-4">Speaker Dinner</h2>
   <p class="mt-4">
     Restaurant name: Shelter <br/>
+    Time: 19:00 EET <br/>
     Address: Kanavaranta 7, 00160 Helsinki<br/>
     Website: https://www.shelter.fi/<br/>
     Google Maps link: https://goo.gl/maps/q2ZBCPz3BnqY91oS6<br/>
