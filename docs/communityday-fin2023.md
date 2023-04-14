@@ -75,7 +75,12 @@ image: "og-communityday.png"
 			</tr>
   			<tr>
 	  			<th scope="row" class="time">9:15 - 10.00</th>
-				  <td colspan="4"><b>Keynote</b></td>
+				  <td colspan="4">
+				    <b>Keynote</b>
+				    <p>
+				      Ursula Koski <a href="https://www.linkedin.com/in/ursulakoski/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
+				    </p>
+				  </td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">10:00 - 12:00</th>
