@@ -151,7 +151,7 @@ image: "og-communityday.png"
                     </p>
                     <p>
                       <b>Boosting Performance with AWS Serverless in Finnish Parliamentary Elections</b> (14:00)<br />
-                      Harri Lammi <a href="https://www.linkedin.com/in/harrilamma/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                      Harri Lammi <a href="https://www.linkedin.com/in/harrilammi/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </p>
                   </td>
                   <td>
