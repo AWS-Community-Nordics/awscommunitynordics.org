@@ -145,8 +145,8 @@ image: "og-communityday.png"
                       Michal Brygidyn <a href="https://www.linkedin.com/in/michalbrygidyn/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </p>
                     <p>
-                      <b>TBD</b> (14:00)<br />
-                      TBD
+                      <b>Boosting Performance with AWS Serverless in Finnish Parliamentary Elections</b> (14:00)<br />
+                      Harri Lammi <a href="https://www.linkedin.com/in/harrilamma/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </p>
                   </td>
                   <td>
