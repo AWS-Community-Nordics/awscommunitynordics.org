@@ -382,6 +382,12 @@ image: "og-communityday.png"
             I want to share how we at Qred use AWS service catalog and IaC to Standardise Data Scientist Development environment. We at Qred want our Data Scientist to focus on our ML modelling and not have to worry about AWS infrastructure and deployment pipelines. We create Sagemaker products in AWS Service catalog to make it easy to start a new project in Sagermaker studio. With one click from our Data Scientist they could create a complete new ML project with a Github repo injected with content like: 1. Github actions workflows, 2. Sagemaker pipeline, 3. S3 buckets, 4. Step function orchestrator lambdas, 5. Schedule retraining of models. Things that a Data Scientist wants to have before starting their data model development. This method could be used in other areas as well if you want to create blueprint projects in your organizations.
           </div>
       </div>
+      <div class="row pt-2">
+          <div class="col text-left">
+            <b>Boosting Performance with AWS Serverless in Finnish Parliamentary Elections - Harri Lammi <a href="https://www.linkedin.com/in/harrilammi/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
+            The Finnish parliamentary elections culminated in the vote counting on election night, with hundreds of thousands of visitors flocking to media websites. In this session, we’ll explore how MTV and Cirit Oy addressed data processing challenges in election results web application (https://www.mtvuutiset.fi/vaalitulokset). We’ll discuss the problem-solving approach, the use of AWS managed services as well as the achieved results, including a 50% improvement in data processing speed. Attendees will learn about practical solutions in leveraging AWS services for data processing, as well as areas for future improvements and optimization.
+          </div>
+    </div>
 
   <a name="workshop"></a>
   <h2 class="mt-4">Workshop</h2>
