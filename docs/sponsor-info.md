@@ -20,7 +20,7 @@ image: "og-communityday.png"
   <div class="row pt-4">
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
     <div class="col text-center"><h5><a href="#benefits">Sponsor benefits</a></h5></div>
-    <div class="col text-center"><h5><a href="#deck">Slide decks & Content</a></h5></div>
+    <div class="col text-center"><h5><a href="#onsite">Onsite</a></h5></div>
     <div class="col text-center"><h5><a href="#recording">Recording</a></h5></div>
     <div class="col text-center"><h5><a href="#faq">FAQ</a></h5></div>
   </div>
@@ -37,22 +37,17 @@ image: "og-communityday.png"
   <a name="benefits"></a>
   <h2 class="mt-4">Sponsor benefits</h2>
 
-Establishing brand as supportive of the community activities and valuable visibility to the primary talent pool in the Nordic cloud market.
+  Establishing brand as supportive of the community activities and valuable visibility to the primary talent pool in the Nordic cloud market.
 
-- Visibility on pre-event marketing contents (website, social media, promotion on meetups)
-- Visibility during event (slides during breaks and on every session beginning)
-- Sponsor stand/table during breaks and lunch (possibility for rollup or equivalent)
-- Logo visibility on after-event content, which will be published to AWS Community Nordics youtube channel
+  <li>Visibility on pre-event marketing contents (website, social media, promotion on meetups)</li>
+  <li>Visibility during event (slides during breaks and on every session beginning)</li>
+  <li>Sponsor stand/table during breaks and lunch (possibility for rollup or equivalent)</li>
+  <li>Logo visibility on after-event content, which will be published to AWS Community Nordics youtube channel</li>
 
-  <a name="deck"></a>
-  <h2 class="mt-4">Slide decks & Content</h2>
-  <p class="mt-4">You are expected to use title slide of the AWS Community Day design reflecting the sponsors, title and date of the talk. This is important as these will be shown also in the recordings. The event is international and the language used in the conference is English. All talk contents and written materials should support this to enable our diverse participants to consume the content. 
-  </p>
+  <a name="onsite"></a>
+  <h2 class="mt-4">Onsite instructions</h2>
   <p>
-  Slide deck template can be downloaded from <a href="/content/img/CommunityDayNordics2023_SlideTemplate.pptx">here</a>.
-  </p>
-  <p>
-  Also make sure that you have the rights to use any images or illustrations you intend to use on your decks
+  There will be two bar tables provided for you to create a sponsor stand. You can bring up to two rollups to display on the meeting lounge area.
   </p>
   <a name="recording"></a>
   <h2 class="mt-4">Recording</h2>
