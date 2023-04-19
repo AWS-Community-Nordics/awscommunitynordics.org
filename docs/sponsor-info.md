@@ -53,6 +53,9 @@ image: "og-communityday.png"
   <p>
   When communicating and posting from the event on your accounts and channels, plese mention that the event is community organized. You can also use hashtags #awscommunitynordics and #awscommunityday in the posts, if appropriate.
   </p>
+  <p>
+  Speakers have been instructed to use a template for their slides with cover page including sponsor logos. The logos will be also visible in any materials released after the event date.
+  </p>
   <a name="onsite"></a>
   <h2 class="mt-4">Onsite instructions</h2>
   <p>
