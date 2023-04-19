@@ -60,7 +60,8 @@ image: "og-communityday.png"
   </p>
   <a name="recording"></a>
   <h2 class="mt-4">Recording</h2>
-  <p class="mt-4">Talks on the Main Stage and Side Stage will be recorded. It will be announced later if we can record Lightning talks. All the talks should have the Q&A to be at the end of the talk to support the recording of the session.
+  <p>
+  Talks will be recorded and published to AWS Community Nordics youtube channel for offline consumption. The event will not be live streamed. Sponsor visibility will be retained in the published recordings.
   </p>
  <a name="faq"></a>
   <h2 class="mt-4">FAQ</h2>
