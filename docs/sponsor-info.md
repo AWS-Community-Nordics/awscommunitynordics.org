@@ -20,6 +20,7 @@ image: "og-communityday.png"
   <div class="row pt-4">
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
     <div class="col text-center"><h5><a href="#benefits">Sponsor benefits</a></h5></div>
+    <div class="col text-center"><h5><a href="#communications">Communications</a></h5></div>
     <div class="col text-center"><h5><a href="#onsite">Onsite</a></h5></div>
     <div class="col text-center"><h5><a href="#recording">Recording</a></h5></div>
     <div class="col text-center"><h5><a href="#faq">FAQ</a></h5></div>
@@ -44,6 +45,14 @@ image: "og-communityday.png"
   <li>Sponsor stand/table during breaks and lunch (possibility for rollup or equivalent)</li>
   <li>Logo visibility on after-event content, which will be published to AWS Community Nordics youtube channel</li>
 
+  <a name="communications"></a>
+  <h2 class="mt-4">Communications and social media</h2>
+  <p>
+  Organizing team will promote the event in it's social media channels and provide the visibility before, during and after the event.
+  </p>
+  <p>
+  When communicating and posting from the event on your accounts and channels, plese mention that the event is community organized. You can also use hashtags #awscommunitynordics and #awscommunityday in the posts, if appropriate.
+  </p>
   <a name="onsite"></a>
   <h2 class="mt-4">Onsite instructions</h2>
   <p>
