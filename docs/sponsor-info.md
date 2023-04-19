@@ -69,4 +69,8 @@ image: "og-communityday.png"
   <p>
   Of course you can. But prefer sustainable approach.
   </p>
+  <p><b>I have an urgent question which is not answered here</b></p>
+  <p>
+  Reach out to Rolf Koski (first.last@knowit.fi)
+  </p>
 </div>
