@@ -38,6 +38,14 @@ image: "og-communityday.png"
 
    <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.4658697382752!2d24.9518681523299!3d60.18957278187961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920981f73e37f9%3A0xb412ab79fbbd1bad!2sNordea%20Vallila%20Campus!5e0!3m2!1sfi!2sfi!4v1678196082672!5m2!1sfi!2sfi" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p>
 
+  <p>
+  Venue map
+  </p>
+  <div class="row pt-5">
+    <div class="col text-center"><img src="/content/img/venue-map.png"></div>
+  </div>
+
+
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets and registration</h2>
   <p>Tickets for AWS Community Day in Helsinki are free. That's right, free! </p>
