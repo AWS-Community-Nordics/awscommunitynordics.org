@@ -40,6 +40,10 @@ image: "og-communityday.png"
 
   <h3>Venue map</h3>
   <p>
+  <b>Track 1</b> - Event lounge (orange)<br>
+  <b>Track 2</b> - Auditorium (yellow)<br>
+  <b>Track 3</b> - Meeting lounge (teal green)<br>
+  <b>Track 4</b> - Workshop (purple)
   </p>
   <div class="row pt-5">
     <div class="col text-center"><img src="/content/img/venue-map.png"></div>
