@@ -58,6 +58,9 @@ image: "og-communityday.png"
   <p>
   There will be two bar tables provided for you to create a sponsor stand. You can bring up to two rollups to display on the meeting lounge area.
   </p>
+  <p>
+  All people entering the premises need to have their names in the reception of Nordea. If you have people for booth duty which are not general attendees, these still need to be notified to the organizers, so we can relay the information to the site security. Please be adviced, that these are bank premises. We can allocate a reasonable amount of non-attendee staff (2-3 people per sponsor maximum), as we are pretty much at capacity what the premises can support from safety perspective.
+  </p>
   <a name="recording"></a>
   <h2 class="mt-4">Recording</h2>
   <p>
