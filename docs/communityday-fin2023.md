@@ -414,7 +414,7 @@ image: "og-communityday.png"
     You will build a serverless application to help the shop to accept orders and notify customers when their drinks are ready. Have fun and get caffeinated!
   </p>
   <p>
-    <b>Note!</b> You will need your own laptop with you in order to participate in the workshop. Workshop is walk-in and continuously available after lunch break. If the room is full, come again after a short while to check if there is space available. We can fit around 30 people at one time in the workshop space. Conpleting the workshop takes usually few hours.
+    <b>Note!</b> You will need your own laptop with you in order to participate in the workshop. Workshop is walk-in and continuously available after lunch break. If the room is full, come again after a short while to check if there is space available. We can fit around 30 people at one time in the workshop space. Completing the workshop takes usually few hours.
   </p>
 
   <a name="sponsors"></a>
