@@ -380,7 +380,7 @@ image: "og-communityday.png"
       </div>
       <div class="row pt-4">
           <div class="col text-left">
-            <b>Common Fate: A platform for managing temporary elevated AWS access - Theo Mylonidis https://www.linkedin.com/in/tmylo/</b><br />
+            <b>Common Fate: A platform for managing temporary elevated AWS access - Theo Mylonidis <a href="https://www.linkedin.com/in/tmylo/" target="_blank"><i class="fab fa-linkedin"></i></a></b><br />
             At Qred, the challenge of giving elevated AWS access to developers for a limited amount of time is being addressed with the Common Fate open source project, which grants access in a secure, auditable & smooth way. Common Fate is being utilized in conjunction with AWS Identity Center and AWS Control Tower, allowing the CloudOps team to address some edge cases in which developers would normally be denied AWS access. This is achieved by approving requests for extended AWS permissions for a limited time and in an auditable manner.
           </div>
           <div class="col text-left">
