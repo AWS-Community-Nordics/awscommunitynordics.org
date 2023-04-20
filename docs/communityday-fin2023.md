@@ -109,7 +109,7 @@ image: "og-communityday.png"
                   <td>
                         <p>
                           <b>Standardise Data Scientist Development Environment</b> (10:00)<br />
-                          Mattias Svensson
+                          Mattias Svensson <a href="https://www.linkedin.com/in/mattias-olof-svensson/" target="_blank"><i class="fab fa-linkedin"></i></a>
                         </p>
                         <p>
                           <b>AWS Disaster Recovery Simulation</b> (10:30)<br />
@@ -219,7 +219,7 @@ image: "og-communityday.png"
                   </td>
                   <td>
                     <p>
-                      <b>How adversaries see your cloud</b> (15:15)<br />
+                      <b>CANCELED - How adversaries see your cloud</b> (15:15)<br />
                       Tuomo Makkonen <a href="https://twitter.com/tmakkonen" target="_blank"><i class="fab fa-twitter"></i></a>
                     </p>
                     <p>
@@ -232,7 +232,7 @@ image: "og-communityday.png"
                     </p>
                     <p>
                       <b>Common Fate: A platform for managing temporary elevated AWS access</b> (16:45)<br />
-                      Theo Mylonidis
+                      Theo Mylonidis <a href="https://www.linkedin.com/in/tmylo/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </p>
                   </td>
                   <td>
@@ -369,17 +369,6 @@ image: "og-communityday.png"
       </div>
       <div class="row pt-4">
           <div class="col text-left">
-            <b>Well-Architecting Sustainably - Niklas Westerstråhle <a href="https://www.linkedin.com/in/niklaswesterstrahle/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
-            Taking a look at Well-Architected Framework from Sustainability point of view, learning how to think about sustainability in your architecture.
-          </div>
-          <br />
-          <div class="col text-left">
-            <b> How adversaries see your cloud - Tuomo Makkonen <a href="https://twitter.com/tmakkonen" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
-            A whirlwind tour of real-world attacks against AWS environments observed in the wild. How cyber criminals identify and exploit weaknesses in the cloud, and how to defend against attacks and detect them in time.
-          </div>
-      </div>
-      <div class="row pt-4">
-          <div class="col text-left">
             <b>Security Lake - Experience Working with a Preview AWS Service - Alari Varmann <a href="https://www.linkedin.com/in/alarivarmann/" target="_blank"><i class="fab fa-linkedin"></i></a> </b><br />
             Given the increasing amount of cyberattacks in the world and prior release of services such as Microsoft Sentinel, there’s lots of activity in the security domain. If you wish to protect your AWS Organization using AWS native or third party tools, all these services produce data in different formats which makes any security automation and incident response potentially inefficient, expensive and cumbersome.  In this talk, the listener will be introduced to the new AWS service in preview – Amazon Security Lake – a new service  empowering your AWS organization with an all-around capability to manage all the security data in one centralized data lake according to a standard adopted in the cybersecurity industry.
           </div>
@@ -391,11 +380,11 @@ image: "og-communityday.png"
       </div>
       <div class="row pt-4">
           <div class="col text-left">
-            <b>Common Fate: A platform for managing temporary elevated AWS access - Theo Mylonidis </b><br />
+            <b>Common Fate: A platform for managing temporary elevated AWS access - Theo Mylonidis https://www.linkedin.com/in/tmylo/</b><br />
             At Qred, the challenge of giving elevated AWS access to developers for a limited amount of time is being addressed with the Common Fate open source project, which grants access in a secure, auditable & smooth way. Common Fate is being utilized in conjunction with AWS Identity Center and AWS Control Tower, allowing the CloudOps team to address some edge cases in which developers would normally be denied AWS access. This is achieved by approving requests for extended AWS permissions for a limited time and in an auditable manner.
           </div>
           <div class="col text-left">
-            <b>Standardise Data Scientist Development Environment - Mattias Svensson </b><br />
+            <b>Standardise Data Scientist Development Environment - Mattias Svensson <a href="https://www.linkedin.com/in/mattias-olof-svensson/" target="_blank"><i class="fab fa-linkedin"></i></a></b><br />
             I want to share how we at Qred use AWS service catalog and IaC to Standardise Data Scientist Development environment. We at Qred want our Data Scientist to focus on our ML modelling and not have to worry about AWS infrastructure and deployment pipelines. We create Sagemaker products in AWS Service catalog to make it easy to start a new project in Sagermaker studio. With one click from our Data Scientist they could create a complete new ML project with a Github repo injected with content like: 1. Github actions workflows, 2. Sagemaker pipeline, 3. S3 buckets, 4. Step function orchestrator lambdas, 5. Schedule retraining of models. Things that a Data Scientist wants to have before starting their data model development. This method could be used in other areas as well if you want to create blueprint projects in your organizations.
           </div>
       </div>
