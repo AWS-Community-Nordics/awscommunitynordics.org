@@ -259,7 +259,7 @@ image: "og-communityday.png"
 
   <a name="speakers"></a>
   <h2 class="mt-4">Talks &amp; Speakers</h2>
-      <h3>All videos are now published from the community day and can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube">AWS Community Nordic YouTube Channel</i></a></h3>
+      <h4>All videos are now published from the community day and can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4>
       <div class="row pt-4">
           <div class="col text-left">
             <b>Event-Driven and serverless in world of IoT - Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
