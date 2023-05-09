@@ -11,7 +11,8 @@ image: "og-communityday.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Helsinki | Thursday, 20 April 2023</h2>
-    <h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2023-helsinki-tickets-536734576567" role="button" >Registration is open</a></h2>
+    <!--h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2023-helsinki-tickets-536734576567" role="button" >Registration is open</a></h2-->
+    <h2 class="display-5 mt-4">See you next year!</h2>
   </div>
 </div>
 
@@ -395,7 +396,7 @@ image: "og-communityday.png"
   <h2 class="mt-4">Workshop</h2>
   <p>In this workshop, Marcia Villalba, Principal Developer Advocate at AWS, will guide you through the Serverlessespresso workshop.</p>
   <p>
-    Serverlesspresso is a pop-up coffee shop that provides premium espresso drinks at conferences and events.
+    Serverlesspresso is a pop-up coffee shop that provideres premium espresso drinks at conferences and events.
     You will build a serverless application to help the shop to accept orders and notify customers when their drinks are ready. Have fun and get caffeinated!
   </p>
   <p>
