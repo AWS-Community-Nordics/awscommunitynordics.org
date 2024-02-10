@@ -38,7 +38,7 @@ image: "og-communityday.png"
   <p>This event is being held <b>Tuesday, May 7 2024</b> in <a href="https://www.google.com/maps/place/Tietgensgade+65,+1704+K%C3%B8benhavn/@55.6687672,12.5642333,17z/data=!3m1!4b1!4m6!3m5!1s0x4652537289993bc9:0x8052e6ea983db1cd!8m2!3d55.6687672!4d12.5642333!16s%2Fg%2F11c15ydsj7?entry=ttu">DGI Byen</a> (Tietgensgade 65, DK-1704 København V). </p>
 
   <p>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2250.1629098302606!2d12.564233300000001!3d55.66876719999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652537289993bc9%3A0x8052e6ea983db1cd!2sTietgensgade%2065%2C%201704%20K%C3%B8benhavn!5e0!3m2!1sen!2sdk!4v1707575104609!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2250.1629098302606!2d12.564233300000001!3d55.66876719999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652537289993bc9%3A0x8052e6ea983db1cd!2sTietgensgade%2065%2C%201704%20K%C3%B8benhavn!5e0!3m2!1sen!2sdk!4v1707575104609!5m2!1sen!2sdk" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </p>
 
   <h3>Venue map</h3>
