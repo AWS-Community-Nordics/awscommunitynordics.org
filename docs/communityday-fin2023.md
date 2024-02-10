@@ -2,8 +2,8 @@
 layout: default
 title:  "AWS Community Day Nordics in Helsinki 2023"
 description: "The AWS Community Day is a free full day event for AWS users organized by the Nordic AWS community. In 2023 the event is held in Helsinki."
-navigation: "communityday"
-permalink: /communityday/
+navigation: "communityday/2023"
+permalink: /communityday/2023/
 image: "og-communityday.png"
 ---
 
