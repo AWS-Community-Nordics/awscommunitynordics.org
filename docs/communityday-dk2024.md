@@ -11,7 +11,7 @@ image: "og-communityday.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Copenhagen | Tuesday, 7 May 2024</h2>
-    <!--h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2024-helsinki-tickets-536734576567" role="button" >Registration is open</a></h2-->
+    <!-- h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2024-helsinki-tickets-536734576567" role="button" >Registration is open</a></h2 -->
     <h2 class="display-5 mt-4">Coming soon</h2>
   </div>
 </div>
@@ -41,12 +41,13 @@ image: "og-communityday.png"
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2250.1629098302606!2d12.564233300000001!3d55.66876719999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652537289993bc9%3A0x8052e6ea983db1cd!2sTietgensgade%2065%2C%201704%20K%C3%B8benhavn!5e0!3m2!1sen!2sdk!4v1707575104609!5m2!1sen!2sdk" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </p>
 
-  <h3>Venue map</h3>
+  <h3>Venue map coming soon</h3>
   <p>
-  <b>Track 1</b> - Event lounge (orange)<br>
-  <b>Track 2</b> - Auditorium (yellow)<br>
-  <b>Track 3</b> - Meeting lounge (teal green)<br>
-
+  <!--
+    <b>Track 1</b> - Event lounge (orange)<br>
+    <b>Track 2</b> - Auditorium (yellow)<br>
+    <b>Track 3</b> - Meeting lounge (teal green)<br>
+  -->
   </p>
   <div class="row pt-5">
     <!-- div class="col text-center"><img src="/content/img/venue-map.png"></div -->
@@ -431,7 +432,7 @@ image: "og-communityday.png"
 -->
 
 
-  <!--End mc_embed_signup-->
+  <!-- End mc_embed_signup -->
   <a name="contact"></a>
   <h2 class="mt-4">Contact &amp; Organizers</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
@@ -463,6 +464,6 @@ image: "og-communityday.png"
     <li> 2018 in Helsinki</li>
     <li> 2019 in <a href="/communityday/2019/">Copenhagen</a></li>
     <li> 2020 in <a href="/communityday/2020/">Stockholm</a> </li>
-    <li> 2022 in <a href="/communityday/2023/">Helsinki</a> </li>
+    <li> 2023 in <a href="/communityday/2023/">Helsinki</a> </li>
   </p>
 </div>
