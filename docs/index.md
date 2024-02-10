@@ -13,8 +13,8 @@ permalink: /
       <div class="container">
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
-          <h2 class="mt-4">AWS Community Day 2023!</h2>
-          <p>The annual community-led event will be held in Helsinki Thursday, 20 April 2023.</p>
+          <h2 class="mt-4">AWS Community Day 2024!</h2>
+          <p>The annual community-led event will be held in Copenhagen Tuesday, May 7 2024.</p>
           <p class="mt-4"><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>
         </div>
       </div>
@@ -44,5 +44,5 @@ permalink: /
   <p>AWS Community Nordics is a collective of independently run AWS User Groups in all of the Nordic countries spreading over the most important tech hub cities.</p>
   <p>We organize local onsite meetups, Nordic wide virtual events as well as AWS Community Day Nordics annual event.</p>
   <p><a href="https://aws.amazon.com/nordics/">AWS in the Nordics</a></p>
-  
+
 </div>
