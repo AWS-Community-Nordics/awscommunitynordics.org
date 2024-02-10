@@ -46,12 +46,11 @@ image: "og-communityday.png"
   <b>Track 1</b> - Event lounge (orange)<br>
   <b>Track 2</b> - Auditorium (yellow)<br>
   <b>Track 3</b> - Meeting lounge (teal green)<br>
-  <b>Track 4</b> - Workshop (purple)
+
   </p>
   <div class="row pt-5">
-    <div class="col text-center"><img src="/content/img/venue-map.png"></div>
+    <!-- div class="col text-center"><img src="/content/img/venue-map.png"></div -->
   </div>
-
 
 
   <a name="agenda"></a>
@@ -402,7 +401,7 @@ image: "og-communityday.png"
 -->
 
   <a name="workshop"></a>
-  <h2 class="mt-4">Workshop</h2>
+  <h2 class="mt-4">Workshop coming soon</h2>
 
 <!--
   <p>In this workshop, Marcia Villalba, Principal Developer Advocate at AWS, will guide you through the Serverlessespresso workshop.</p>
@@ -416,9 +415,10 @@ image: "og-communityday.png"
 -->
 
   <a name="sponsors"></a>
-  <h2 class="mt-4">Sponsors</h2>
-  <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year will be announced soon:</p>
+  <h2 class="mt-4">Sponsors coming soon</h2>
 <!--
+  <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year will be announced soon:</p>
+
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.knowit.eu/" target="_blank"><img src="/content/img/knowit_logo.png" class="communityday-sponsor-small"></a></div>
