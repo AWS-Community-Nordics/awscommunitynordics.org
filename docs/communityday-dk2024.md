@@ -262,7 +262,14 @@ image: "og-communityday.png"
 
 
   <a name="speakers"></a>
-  <h2 class="mt-4">Talks &amp; Speakers coming soon</h2>
+  <h2 class="mt-4">Talks &amp; Speakers</h2>
+
+  <div>
+    <a href="https://sessionize.com/"><img src="https://sessionize.com/landing/images/brand/banners/sessionize-banner-small.png" alt="The smart way to do Call for Papers, Schedule and Speaker Management." width="128" height="80"></a>
+  </div>
+  <div>
+      <a href="https://sessionize.com/aws-community-day-nordics-2024/">Apply for Call for Paper</a>
+  </div>
 
 <!--
       <h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4>
