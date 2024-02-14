@@ -428,13 +428,14 @@ image: "og-communityday.png"
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
   <div>Coming soon</div>
-<!--
-  <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year will be announced soon:</p>
+
+  <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
 
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><a href="https://www.knowit.eu/" target="_blank"><img src="/content/img/knowit_logo.png" class="communityday-sponsor-small"></a></div>
+    <div class="col text-center"><a href="https://www.novonordisk.com/" target="_blank"><img src="/content/img/novo_logo.png" class="communityday-sponsor-small"></a></div>
   </div>
+<!--
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.nitor.com/" target="_blank"><img src="/content/img/nitor_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://almamedia.dev/" target="_blank"><img src="/content/img/alma_logo.png" class="communityday-sponsor-small"></a></div>
