@@ -41,7 +41,8 @@ image: "og-communityday.png"
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2250.1629098302606!2d12.564233300000001!3d55.66876719999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652537289993bc9%3A0x8052e6ea983db1cd!2sTietgensgade%2065%2C%201704%20K%C3%B8benhavn!5e0!3m2!1sen!2sdk!4v1707575104609!5m2!1sen!2sdk" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </p>
 
-  <h3>Venue map coming soon</h3>
+  <h2>Venue map</h2>
+  <div>Coming soon</div>
   <p>
   <!--
     <b>Track 1</b> - Event lounge (orange)<br>
@@ -55,7 +56,8 @@ image: "og-communityday.png"
 
 
   <a name="agenda"></a>
-  <h2 class="mt-4">Agenda coming soon</h2>
+  <h2 class="mt-4">Agenda</h2>
+  <div>Coming soon</div>
 
 <!--
   <p class="mt-4">The event hours are 9:00 - 17:30 with registration and coffee starting preliminarily at 8:00. Detailed times and content subject to change. Always check back here for the latest version of the agenda.
@@ -409,7 +411,8 @@ image: "og-communityday.png"
 -->
 
   <a name="workshop"></a>
-  <h2 class="mt-4">Workshop coming soon</h2>
+  <h2 class="mt-4">Workshop</h2>
+  <div>Coming soon</div>
 
 <!--
   <p>In this workshop, Marcia Villalba, Principal Developer Advocate at AWS, will guide you through the Serverlessespresso workshop.</p>
@@ -423,7 +426,8 @@ image: "og-communityday.png"
 -->
 
   <a name="sponsors"></a>
-  <h2 class="mt-4">Sponsors coming soon</h2>
+  <h2 class="mt-4">Sponsors</h2>
+  <div>Coming soon</div>
 <!--
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year will be announced soon:</p>
 
