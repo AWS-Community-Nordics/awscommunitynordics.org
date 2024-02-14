@@ -427,7 +427,6 @@ image: "og-communityday.png"
 
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
-  <div>Coming soon</div>
 
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
 
