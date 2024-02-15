@@ -455,7 +455,7 @@ image: "og-communityday.png"
   <p class="mt-4">
     <b>Angela Timofte</b> <a href="https://www.linkedin.com/in/angela-timofte-it/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
-  <p>
+  <p class="mt-4">
     <b>Antonio Lagrotteria</b> <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p class="mt-4">
