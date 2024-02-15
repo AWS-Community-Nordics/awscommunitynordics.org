@@ -22,7 +22,7 @@ image: "og-communityday.png"
     <div class="col text-center"><h5><a href="#tickets">Tickets</a></h5></div>
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
     <div class="col text-center"><h5><a href="#speakers">Talks &amp; Speakers</a></h5></div>
-    <div class="col text-center"><h5><a href="#workshop">Workshop</a></h5></div>
+    <!-- div class="col text-center"><h5><a href="#workshop">Workshop</a></h5></div -->
     <div class="col text-center"><h5><a href="#sponsors">Sponsors</a></h5></div>
   </div>
 
@@ -69,7 +69,6 @@ image: "og-communityday.png"
 				  <th scope="col" width="24%">Track 1</th>
           <th scope="col" width="24%">Track 2</th>
           <th scope="col" width="24%">Track 3</th>
-          <th scope="col" width="24%">Workshop</th>
         </tr>
       </thead>
 	  	<tbody>
@@ -408,13 +407,12 @@ image: "og-communityday.png"
           </div>
     </div>
 
--->
+
 
   <a name="workshop"></a>
   <h2 class="mt-4">Workshop</h2>
   <div>Coming soon</div>
 
-<!--
   <p>In this workshop, Marcia Villalba, Principal Developer Advocate at AWS, will guide you through the Serverlessespresso workshop.</p>
   <p>
     Serverlesspresso is a pop-up coffee shop that provideres premium espresso drinks at conferences and events.
