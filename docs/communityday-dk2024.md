@@ -429,6 +429,7 @@ image: "og-communityday.png"
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
 
   <div class="row pt-5">
+    <div class="col text-center"><a href="https://www.couchbase.com/" target="_blank"><img src="/content/img/couchbase_logo.png.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.novonordisk.com/" target="_blank"><img src="/content/img/novo_logo.png" class="communityday-sponsor-small"></a></div>
   </div>
@@ -437,7 +438,6 @@ image: "og-communityday.png"
   <!--
     <div class="col text-center"><a href="https://www.nitor.com/" target="_blank"><img src="/content/img/nitor_logo.png" class="communityday-sponsor-small"></a></div>
   -->
-    <div class="col text-center"><img src="/content/img/coming_soon_logo.jpeg" class="communityday-sponsor-small"></div>
     <div class="col text-center"><img src="/content/img/coming_soon_logo.jpeg" class="communityday-sponsor-small"></div>
     <div class="col text-center"><img src="/content/img/coming_soon_logo.jpeg" class="communityday-sponsor-small"></div>
   </div>
