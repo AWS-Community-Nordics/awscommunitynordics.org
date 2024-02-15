@@ -453,14 +453,18 @@ image: "og-communityday.png"
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
   <h3>Main Organizers</h3>
   <p class="mt-4">
-    <b>Rolf Koski</b> - VP of Technology at Knowit <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <b>Angela Timofte</b> <a href="https://www.linkedin.com/in/angela-timofte-it/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>Lezgin Bakircioglu</b> - CTO at Qred <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <b>Antonio Lagrotteria</b> <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p class="mt-4">
+    <b>Rolf Koski</b> <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>Antonio Lagrotteria</b> - Principal Architect at Nordea <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <b>Lezgin Bakircioglu</b> <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
+
   <h3>Supporting Organizers</h3>
   <p>
     <b>Anders Björnestad</b><br>
