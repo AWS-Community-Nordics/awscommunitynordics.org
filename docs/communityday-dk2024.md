@@ -434,13 +434,16 @@ image: "og-communityday.png"
     <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.novonordisk.com/" target="_blank"><img src="/content/img/novo_logo.png" class="communityday-sponsor-small"></a></div>
   </div>
-<!--
+
   <div class="row pt-5">
+  <!--
     <div class="col text-center"><a href="https://www.nitor.com/" target="_blank"><img src="/content/img/nitor_logo.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><a href="https://almamedia.dev/" target="_blank"><img src="/content/img/alma_logo.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><a href="https://www.cloud2.fi/" target="_blank"><img src="/content/img/cloud2_logo.jpg" class="communityday-sponsor-small"></a></div>
+  -->
+    <div class="col text-center"><img src="/content/img/coming_soon_logo.jpeg" class="communityday-sponsor-small"></div>
+    <div class="col text-center"><img src="/content/img/coming_soon_logo.jpeg" class="communityday-sponsor-small"></div>
+    <div class="col text-center"><img src="/content/img/coming_soon_logo.jpeg" class="communityday-sponsor-small"></div>
   </div>
--->
+
 
 
   <!-- End mc_embed_signup -->
