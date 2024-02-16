@@ -434,7 +434,7 @@ image: "og-communityday.png"
   </div>
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><img src="/content/img/coming_soon_logo.jpeg" class="communityday-sponsor-small"></div>
+    <div class="col text-center"><a href="https://sigmatechnology.com/companies/sigma-technology-cloud/" target="_blank"><img src="/content/img/sigma_cloud_logo.png" class="communityday-sponsor-small"></a></div>
   </div>
 
   <div class="row pt-5">
