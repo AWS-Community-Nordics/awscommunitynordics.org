@@ -11,8 +11,7 @@ image: "og-communityday.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Copenhagen | Tuesday, 7 May 2024</h2>
-    <!-- h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2024-helsinki-tickets-536734576567" role="button" >Registration is open</a></h2 -->
-    <h2 class="display-5 mt-4">Tickets coming soon</h2>
+    <h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://aws-community-day-nordics-2024.eventbrite.com" role="button" >Registration is open</a></h2>
   </div>
 </div>
 
