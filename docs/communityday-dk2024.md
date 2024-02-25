@@ -56,14 +56,13 @@ image: "og-communityday.png"
     <div class="col text-center"><img src="/content/img/venue-map.png"></div>
   </div>
 -->
+  <a name="tickets"></a>
+  <h2 class="mt-4">Tickets</h2>
+  <div>Get tickets on <a href="https://aws-community-day-nordics-2024.eventbrite.com">EventBrite</a></div>
 
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
     <div>Coming soon</div>
-
-  <a name="tickets"></a>
-  <h2 class="mt-4">Tickets</h2>
-  <div>Get tickets on <a href="https://aws-community-day-nordics-2024.eventbrite.com">EventBrite</a></div>
 
 <!--
   <p class="mt-4">The event hours are 9:00 - 17:30 with registration and coffee starting preliminarily at 8:00. Detailed times and content subject to change. Always check back here for the latest version of the agenda.
