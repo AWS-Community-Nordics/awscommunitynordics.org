@@ -58,7 +58,7 @@ image: "og-communityday.png"
 -->
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets</h2>
-  <div>Get tickets on <a href="https://aws-community-day-nordics-2024.eventbrite.com" target="_blank">EventBrite</a></div>
+  <div>The event is free, but you need to register by issuing a personal ticket on <a href="https://aws-community-day-nordics-2024.eventbrite.com" target="_blank">EventBrite</a></div>
 
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
