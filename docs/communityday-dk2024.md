@@ -267,7 +267,10 @@ image: "og-communityday.png"
   <div>
     <a href="https://sessionize.com/"><img src="https://sessionize.com/landing/images/brand/banners/sessionize-banner-small.png" alt="The smart way to do Call for Papers, Schedule and Speaker Management." width="128" height="80"></a>
     <span>
-     <a href="https://sessionize.com/aws-community-day-nordics-2024/">Apply for Call for Paper</a>
+     <h2 class="display-5 mt-4">
+      <a class="btn btn-lg btn-primary" href="https://sessionize.com/aws-community-day-nordics-2024/ role="button" >Apply for Call for Papers</a>
+      <a href="https://sessionize.com/" style="color: rgba(0,0,0,.8); text-decoration: none;"> powered by <strong style="color: #1AB394;">Sessionize.com</strong></a>
+      </h2>
     </span>
   </div>
 
