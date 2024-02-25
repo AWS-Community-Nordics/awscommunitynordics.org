@@ -12,8 +12,8 @@ image: "og-communityday.png"
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Copenhagen | Tuesday, 7 May 2024</h2>
     <h2 class="display-5 mt-4">
-      <a class="btn btn-lg btn-primary" href="https://aws-community-day-nordics-2024.eventbrite.com" role="button" >Registration is open</a>
-      <a class="btn btn-lg btn-primary" href="https://sessionize.com/aws-community-day-nordics-2024/" role="button" >Apply for Call for Papers</a>
+      <a class="btn btn-lg btn-primary" href="https://aws-community-day-nordics-2024.eventbrite.com" role="button" target="_blank">Registration is open</a>
+      <a class="btn btn-lg btn-primary" href="https://sessionize.com/aws-community-day-nordics-2024/" role="button" target="_blank">Apply for Call for Papers</a>
     </h2>
   </div>
 </div>
@@ -58,11 +58,11 @@ image: "og-communityday.png"
 -->
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets</h2>
-  <div>Get tickets on <a href="https://aws-community-day-nordics-2024.eventbrite.com">EventBrite</a></div>
+  <div>Get tickets on <a href="https://aws-community-day-nordics-2024.eventbrite.com" target="_blank">EventBrite</a></div>
 
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
-    <div>Coming soon</div>
+  <div>Coming soon</div>
 
 <!--
   <p class="mt-4">The event hours are 9:00 - 17:30 with registration and coffee starting preliminarily at 8:00. Detailed times and content subject to change. Always check back here for the latest version of the agenda.
@@ -272,8 +272,8 @@ image: "og-communityday.png"
 
   <div>
      <h2 class="display-5 mt-4">
-      <a class="btn btn-lg btn-primary" href="https://sessionize.com/aws-community-day-nordics-2024/" role="button" >Apply for Call for Papers</a>
-      <a href="https://sessionize.com/"><img src="https://sessionize.com/landing/images/brand/banners/sessionize-banner-small.png" alt="The smart way to do Call for Papers, Schedule and Speaker Management." width="128" height="80"></a>
+      <a class="btn btn-lg btn-primary" href="https://sessionize.com/aws-community-day-nordics-2024/" role="button" target="_blank">Apply for Call for Papers</a>
+      <a href="https://sessionize.com/" target="_blank"><img src="https://sessionize.com/landing/images/brand/banners/sessionize-banner-small.png" alt="The smart way to do Call for Papers, Schedule and Speaker Management." width="128" height="80"></a>
      </h2>
   </div>
 
