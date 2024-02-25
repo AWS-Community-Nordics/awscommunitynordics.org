@@ -63,7 +63,7 @@ image: "og-communityday.png"
 
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets</h2>
-  <div>Get tickets on <a href="https://sessionize.com/aws-community-day-nordics-2024/">EventBrite</a></div>
+  <div>Get tickets on <a href="https://aws-community-day-nordics-2024.eventbrite.com">EventBrite</a></div>
 
 <!--
   <p class="mt-4">The event hours are 9:00 - 17:30 with registration and coffee starting preliminarily at 8:00. Detailed times and content subject to change. Always check back here for the latest version of the agenda.
