@@ -39,20 +39,20 @@ image: "og-communityday.png"
   <p>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2250.1629098302606!2d12.564233300000001!3d55.66876719999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652537289993bc9%3A0x8052e6ea983db1cd!2sTietgensgade%2065%2C%201704%20K%C3%B8benhavn!5e0!3m2!1sen!2sdk!4v1707575104609!5m2!1sen!2sdk" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </p>
-
+<!--
   <h2>Venue map</h2>
   <div>Coming soon</div>
   <p>
-  <!--
+
     <b>Track 1</b> - Event lounge (orange)<br>
     <b>Track 2</b> - Auditorium (yellow)<br>
     <b>Track 3</b> - Meeting lounge (teal green)<br>
-  -->
+
   </p>
   <div class="row pt-5">
-    <!-- div class="col text-center"><img src="/content/img/venue-map.png"></div -->
+    <div class="col text-center"><img src="/content/img/venue-map.png"></div>
   </div>
-
+-->
 
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
