@@ -280,7 +280,7 @@ image: "og-communityday.png"
 
       <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
       <div class="row pt-4">
-          <div class="col-md-6">
+          <div class="col-md-2">
               <figure>
                   <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="img-fluid communityday-sponsor-small">
                   <figcaption class="mt-2">
@@ -289,7 +289,7 @@ image: "og-communityday.png"
               </figure>
           </div>
           <div class="col-md-6">
-                <h2>Building resilient serverless workloads: Navigating through failures</h2>
+                <b>Building resilient serverless workloads: Navigating through failures</b>
                 <p>Serverless and event-driven workloads on AWS are well known for their inherent high availability and scalability, offering a robust platform right out of the box. However, in the world of cloud, it's well known that everything fails all the time. This reality becomes even more complex when serverless systems interact with non-serverless components, which may not possess the same agility in scaling.
                   In this talk, we will dig into architectural patterns that can help you handle failures effectively. Additionally, I'll be sharing my personal insights and gotchas from working with serverless workloads for almost ten years.
                 </p>
