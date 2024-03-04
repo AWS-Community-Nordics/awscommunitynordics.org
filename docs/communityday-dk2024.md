@@ -281,13 +281,13 @@ image: "og-communityday.png"
       <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
       <div class="row pt-4">
           <span>
-            <div class="col-md-2">
-                <figure>
-                    <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="img-fluid communityday-sponsor-small">
-                    <figcaption class="mt-2">
-                        <p class="font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></p>
-                    </figcaption>
-                </figure>
+            <div class="col-md-6">
+                <span>
+                  <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+                </span>
+                <span>
+                  <p class="font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></p>
+                <span>
             </div>
             <div class="col-md-6">
                   <b>Building resilient serverless workloads: Navigating through failures</b>
