@@ -279,9 +279,9 @@ image: "og-communityday.png"
 
 
       <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
-      <div class="row pt-4">
-          <div>
-            <div class="col d-flex justify-content-center">
+      <div class="pt-4">
+          <div class="row">
+            <div class="col d-flex justify-content-center align-items-center">
                 <span class="p-2">
                   <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
                 </span>
