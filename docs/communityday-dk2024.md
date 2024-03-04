@@ -300,24 +300,7 @@ image: "og-communityday.png"
         </div>
       </div>
 
-      <div class="row pt-4 pb-4">
-        <div class="col d-flex justify-content-center align-items-center">
-            <span class="p-2">
-              <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
-            </span>
-            <span class="d-flex align-items-center">
-              <div>
-                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
-                <div class="d-flex text-center">AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
-              </div>
-            </span>
-        </div>
-        <div class="col">
-              <b>Building resilient serverless workloads: Navigating through failures</b>
-              <p>Serverless and event-driven workloads on AWS are well known onally orking with serverless workloads for almost ten years.
-              </p>
-        </div>
-      </div>
+
       <!-- div class="col text-left">
         <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design - Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
         Event-Driven Architectures (EDAs) allow complex application landscapes to efficiently integrate. However, an organically grown EDA can be messy. In this talk I will present 10 simple rules to organize and standardize event-driven systems, which will help you build future-proof implementations.
