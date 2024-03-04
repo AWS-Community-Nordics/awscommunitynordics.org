@@ -277,22 +277,24 @@ image: "og-communityday.png"
      </h2>
   </div>
 
-<!--
-      <h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4>
+
+      <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
       <div class="row pt-4">
           <div class="col text-left">
-            <b>Event-Driven and serverless in world of IoT - Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
-            In a large IoT system, with thousands or millions of IoT devices, the load can vary heavily over the day. Data and control messages flow in a rapid and often unpredictable way. This makes these systems a good fit for a serverless and event-driven architecture. In this session we will learn about architecture patterns used, how serverless and event-driven play a central role in the success. We will also look at challenges and lesson learned during development.
+            <b>Building resilient serverless workloads: Navigating through failures - Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
+            Serverless and event-driven workloads on AWS are well known for their inherent high availability and scalability, offering a robust platform right out of the box. However, in the world of cloud, it's well known that everything fails all the time. This reality becomes even more complex when serverless systems interact with non-serverless components, which may not possess the same agility in scaling.
+            In this talk, we will dig into architectural patterns that can help you handle failures effectively. Additionally, I'll be sharing my personal insights and gotchas from working with serverless workloads for almost ten years.
           </div>
-          <div class="col text-left">
+          <!-- div class="col text-left">
             <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design - Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
             Event-Driven Architectures (EDAs) allow complex application landscapes to efficiently integrate. However, an organically grown EDA can be messy. In this talk I will present 10 simple rules to organize and standardize event-driven systems, which will help you build future-proof implementations.
-          </div>
+          </div -->
       </div>
-      <div class="row pt-4">
+<!--  <div class="row pt-4">
           <div class="col text-left">
             <b>Serverless Data Streaming with Kinesis and AWS Lambda - Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
-            In this talk, I will walk you through building scalable, production-ready data streaming applications using AWS Kinesis Data Streams and AWS Lambda. There will be plenty of tips, best practices and "gotchas" based on firsthand experience building serverless near real-time data streaming architectures. Together we will see how AWS services work and fail, and learn to embrace the failures. Because as Dr. Werner Vogels likes to say: everything fails, all the time.
+            Serverless and event-driven workloads on AWS are well known for their inherent high availability and scalability, offering a robust platform right out of the box. However, in the world of cloud, it's well known that everything fails all the time. This reality becomes even more complex when serverless systems interact with non-serverless components, which may not possess the same agility in scaling.
+            In this talk, we will dig into architectural patterns that can help you handle failures effectively. Additionally, I'll be sharing my personal insights and gotchas from working with serverless workloads for almost ten years.
           </div>
           <br />
           <div class="col text-left">
