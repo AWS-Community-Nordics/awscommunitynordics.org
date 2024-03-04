@@ -279,32 +279,50 @@ image: "og-communityday.png"
 
 
       <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
-      <div class="pt-4">
-          <div class="row">
-            <div class="col d-flex justify-content-center align-items-center">
-                <span class="p-2">
-                  <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
-                </span>
-                <span class="d-flex align-items-center">
-                  <div>
-                    <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
-                    <div class="d-flex text-center">AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
-                  </div>
-                </span>
-            </div>
-            <div class="col">
-                  <b>Building resilient serverless workloads: Navigating through failures</b>
-                  <p>Serverless and event-driven workloads on AWS are well known for their inherent high availability and scalability, offering a robust platform right out of the box. However, in the world of cloud, it's well known that everything fails all the time. This reality becomes even more complex when serverless systems interact with non-serverless components, which may not possess the same agility in scaling.
-                    In this talk, we will dig into architectural patterns that can help you handle failures effectively. Additionally, I'll be sharing my personal insights and gotchas from working with serverless workloads for almost ten years.
-                  </p>
-            </div>
-          </div>
 
-          <!-- div class="col text-left">
-            <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design - Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
-            Event-Driven Architectures (EDAs) allow complex application landscapes to efficiently integrate. However, an organically grown EDA can be messy. In this talk I will present 10 simple rules to organize and standardize event-driven systems, which will help you build future-proof implementations.
-          </div -->
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex justify-content-center align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
+                <div class="d-flex text-center">AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Building resilient serverless workloads: Navigating through failures</b>
+              <p>Serverless and event-driven workloads on AWS are well known for their inherent high availability and scalability, offering a robust platform right out of the box. However, in the world of cloud, it's well known that everything fails all the time. This reality becomes even more complex when serverless systems interact with non-serverless components, which may not possess the same agility in scaling.
+                In this talk, we will dig into architectural patterns that can help you handle failures effectively. Additionally, I'll be sharing my personal insights and gotchas from working with serverless workloads for almost ten years.
+              </p>
+        </div>
       </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex justify-content-center align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
+                <div class="d-flex text-center">AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Building resilient serverless workloads: Navigating through failures</b>
+              <p>Serverless and event-driven workloads on AWS are well known onally orking with serverless workloads for almost ten years.
+              </p>
+        </div>
+      </div>
+      <!-- div class="col text-left">
+        <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design - Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
+        Event-Driven Architectures (EDAs) allow complex application landscapes to efficiently integrate. However, an organically grown EDA can be messy. In this talk I will present 10 simple rules to organize and standardize event-driven systems, which will help you build future-proof implementations.
+      </div -->
+
 <!--  <div class="row pt-4">
           <div class="col text-left">
             <b>Serverless Data Streaming with Kinesis and AWS Lambda - Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
