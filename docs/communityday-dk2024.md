@@ -282,12 +282,12 @@ image: "og-communityday.png"
       <div class="row pt-4">
           <div>
             <div class="col d-flex justify-content-center">
-                <span>
+                <span class="p-2">
                   <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
                 </span>
                 <span class="d-flex align-items-center">
                   <div>
-                    <div class="d-flex justify-content-center font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
+                    <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
                     <div class="d-flex text-center">AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
                   </div>
                 </span>
@@ -302,12 +302,12 @@ image: "og-communityday.png"
 
           <div>
             <div class="col d-flex justify-content-center">
-                <span>
+                <span class="p-2">
                   <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
                 </span>
                 <span class="d-flex align-items-center">
                   <div>
-                    <div class="d-flex justify-content-center font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
+                    <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
                     <div class="d-flex text-center">AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
                   </div>
                 </span>
