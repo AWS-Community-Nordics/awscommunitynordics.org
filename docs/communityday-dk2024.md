@@ -287,7 +287,7 @@ image: "og-communityday.png"
                 </span>
                 <span>
                   <p class="font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></p>
-                <span>
+                </span>
             </div>
             <div class="col-md-6">
                   <b>Building resilient serverless workloads: Navigating through failures</b>
