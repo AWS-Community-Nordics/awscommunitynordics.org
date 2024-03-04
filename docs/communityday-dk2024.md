@@ -287,8 +287,8 @@ image: "og-communityday.png"
                 </span>
                 <span class="d-flex align-items-center">
                   <div>
-                    <div class="font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
-                    <div>AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
+                    <div class="d-flex justify-content-center font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
+                    <div class="d-flex justify-content-center">AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
                   </div>
                 </span>
             </div>
