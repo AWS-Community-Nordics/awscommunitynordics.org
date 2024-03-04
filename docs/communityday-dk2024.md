@@ -286,7 +286,8 @@ image: "og-communityday.png"
                   <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
                 </span>
                 <span class="d-flex align-items-center">
-                  <p class="font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></p>
+                  <div class="font-weight-bold">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
+                  <div>AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
                 </span>
             </div>
             <div class="col-md-6">
