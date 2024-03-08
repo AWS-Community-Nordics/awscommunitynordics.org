@@ -282,7 +282,7 @@ image: "og-communityday.png"
 
 
       <div class="row pt-4 pb-4">
-        <div class="col d-flex justify-content-center align-items-center">
+        <div class="col d-flex align-items-center">
             <span class="p-2">
               <img src="/content/speakers/2024/aaron_walker.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
@@ -302,7 +302,7 @@ image: "og-communityday.png"
       </div>
 
       <div class="row pt-4 pb-4">
-        <div class="col d-flex justify-content-center align-items-center">
+        <div class="col d-flex align-items-center">
             <span class="p-2">
               <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
@@ -321,10 +321,25 @@ image: "og-communityday.png"
         </div>
       </div>
 
-      <!-- div class="col text-left">
-        <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design - Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
-        Event-Driven Architectures (EDAs) allow complex application landscapes to efficiently integrate. However, an organically grown EDA can be messy. In this talk I will present 10 simple rules to organize and standardize event-driven systems, which will help you build future-proof implementations.
-      </div -->
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/luciano_mammino.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Luciano Mammino <a href="https://www.linkedin.com/in/lucianomammino/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Senior Architect @fourTheorem, AWS Serverless Hero, MVP, Author, Speaker</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Your Lambdas, In Rust!</b>
+              <p>
+                Rust is taking the software engineering world by storm, but how does it affect serverless? In AWS it's not even a supported runtime, so how can we even use it... and should we even try to do that? Spoiler: yes we should and it's actually quite easy to get started with it!
+              </p>
+        </div>
+      </div>
 
 <!--  <div class="row pt-4">
           <div class="col text-left">
