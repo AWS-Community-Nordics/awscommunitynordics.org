@@ -280,6 +280,27 @@ image: "og-communityday.png"
 
       <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
 
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex justify-content-center align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/aaron_walker.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Aaron Walker <a href="https://www.linkedin.com/in/aaronpwalker/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Technology Director @ base2Services</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Amazon VPC Lattice: The Service Mesh you actually want!!</b>
+              <p> Join me for an introduction to Amazon VPC Lattice, a fully managed application networking service that simplifies the management of network connectivity, traffic routing, and security between services across different VPCs and AWS accounts.
+                  In this presentation, we will discuss how Amazon VPC Lattice differs from traditional service mesh products and tools, and how it can help you modernize your applications from a monolithic architecture to a microservices architecture. We will demonstrate some of the key features of Amazon VPC Lattice, including its service directory, service network, advanced traffic management, and integration with AWS services such as IAM.
+              </p>
+        </div>
+      </div>
+
       <div class="row pt-4 pb-4">
         <div class="col d-flex justify-content-center align-items-center">
             <span class="p-2">
@@ -299,7 +320,6 @@ image: "og-communityday.png"
               </p>
         </div>
       </div>
-
 
       <!-- div class="col text-left">
         <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design - Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a></b><br />
