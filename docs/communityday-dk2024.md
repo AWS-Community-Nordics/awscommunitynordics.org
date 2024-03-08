@@ -34,7 +34,7 @@ image: "og-communityday.png"
   The AWS Community Day Nordics is a cloud education event where participants are able to learn best practices and latest trends for deploying applications on AWS. The event delivers a peer-to-peer learning experience, providing the people with a venue for them to acquire AWS knowledge in their preferred way: from one another.
   </p>
   <p>
-  Speakers are expert AWS users from the community - including AWS User Group leaders, AWS Community Builders, AWS Ambassadors and AWS Heroes - with real life experience in the AWS topics they are presenting.
+  Speakers are AWS users from the community - including First-Time speakers, AWS User Group leaders, AWS Community Builders, AWS Ambassadors and AWS Heroes - with real life experience in the AWS topics they are presenting.
   </p>
   <h2 class="mt-4">Date &amp; Venue</h2>
   <p>This event is being held <b>Tuesday, May 7 2024</b> in <a href="https://www.google.com/maps/place/Tietgensgade+65,+1704+K%C3%B8benhavn/@55.6687672,12.5642333,17z/data=!3m1!4b1!4m6!3m5!1s0x4652537289993bc9:0x8052e6ea983db1cd!8m2!3d55.6687672!4d12.5642333!16s%2Fg%2F11c15ydsj7?entry=ttu">DGI Byen</a> (Tietgensgade 65, DK-1704 København V). </p>
