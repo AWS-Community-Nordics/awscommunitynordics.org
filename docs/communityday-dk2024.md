@@ -289,7 +289,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Aaron Walker <a href="https://www.linkedin.com/in/aaronpwalker/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">Technology Director @ base2Services</div>
+                <div class="d-flex text-center">Technology Director @ base2Services | AWS APN Ambassador | Berlin AWS User Group Co-organizer</div>
               </div>
             </span>
         </div>
