@@ -432,18 +432,31 @@ image: "og-communityday.png"
         </div>
   </div>
 
-  <p class="mt-4">
-    <b>Angela Timofte</b> <a href="https://www.linkedin.com/in/angela-timofte-it/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  </p>
-  <p class="mt-4">
-    <b>Antonio Lagrotteria</b> <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  </p>
-  <p class="mt-4">
-    <b>Rolf Koski</b> <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  </p>
-  <p>
-    <b>Lezgin Bakircioglu</b> <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  </p>
+  <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/organizers/rolf_koski.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Rolf Koski <a href="https://twitter.com/therolle" target="_blank" class="pl-1"><i class="fab fa-twitter"></i></a><a href="https://www.linkedin.com/in/rolle/" target="_blank" class="pl-1"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Pragmatist Futurist | CCO @ Knowit Managed Services | EMBA | AWS Hero & Ambassador</div>
+              </div>
+            </span>
+        </div>
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/organizers/lexgin_bakirgioglu.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank" class="pl-1"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank" class="pl-1"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">CT0 @Qred | AWS Community builder | Sec-t(.org) | AWS Stockholm meetup organizer</div>
+              </div>
+            </span>
+        </div>
+  </div>
+
 
   <h3>Supporting Organizers</h3>
   <p>
