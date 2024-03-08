@@ -407,6 +407,31 @@ image: "og-communityday.png"
   <h2 class="mt-4">Contact &amp; Organizers</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
   <h3>Main Organizers</h3>
+  <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/organizers/2024/angela_timofte.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Angela Timofte <a href="https://www.linkedin.com/in/angela-timofte-it/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">VP of Engineering @Trustpilot | AWS Hero | Developer of the Year 2020</div>
+              </div>
+            </span>
+        </div>
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/organizers/2024/antonio_lagrotteria.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Antonio Lagrotteria <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Principal Architect & Engineer @Nordea | AWS Community Builder</div>
+              </div>
+            </span>
+        </div>
+  </div>
+
   <p class="mt-4">
     <b>Angela Timofte</b> <a href="https://www.linkedin.com/in/angela-timofte-it/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
