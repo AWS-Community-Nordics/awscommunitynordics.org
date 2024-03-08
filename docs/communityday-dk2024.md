@@ -12,8 +12,8 @@ image: "og-communityday.png"
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Copenhagen | Tuesday, 7 May 2024</h2>
     <h2 class="display-5 mt-4">
-      <a class="btn btn-lg btn-primary" href="https://aws-community-day-nordics-2024.eventbrite.com" role="button" target="_blank">Registration is open</a>
-      <a class="btn btn-lg btn-primary" href="https://sessionize.com/aws-community-day-nordics-2024/" role="button" target="_blank">Apply for Call for Papers</a>
+      <a class="btn btn-lg btn-primary pb-2" href="https://aws-community-day-nordics-2024.eventbrite.com" role="button" target="_blank">Registration is open</a>
+      <a class="btn btn-lg btn-primary pb-2" href="https://sessionize.com/aws-community-day-nordics-2024/" role="button" target="_blank">Apply for Call for Papers</a>
     </h2>
   </div>
 </div>
