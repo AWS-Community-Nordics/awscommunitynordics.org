@@ -446,7 +446,7 @@ image: "og-communityday.png"
         </div>
         <div class="col d-flex align-items-center">
             <span class="p-2">
-              <img src="/content/organizers/lexgin_bakirgioglu.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+              <img src="/content/organizers/lezgin_bakircioglu.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
               <div>
