@@ -288,7 +288,7 @@ image: "og-communityday.png"
             </span>
             <span class="d-flex align-items-center">
               <div>
-                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Aaron Walker <a href="https://www.linkedin.com/in/aaronpwalker/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Aaron Walker <a href="https://www.linkedin.com/in/aaronpwalker/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
                 <div class="d-flex text-center">Technology Director @ base2Services</div>
               </div>
             </span>
@@ -308,7 +308,7 @@ image: "og-communityday.png"
             </span>
             <span class="d-flex align-items-center">
               <div>
-                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank" class="pl-2"><i class="fab fa-twitter"></i></a></div>
                 <div class="d-flex text-center">AWS Community Builder and AWS Ambassador, Head of AWS @ Sigma Technology Cloud</div>
               </div>
             </span>
