@@ -410,7 +410,7 @@ image: "og-communityday.png"
   <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
-              <img src="/content/organizers/2024/angela_timofte.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+              <img src="/content/organizers/angela_timofte.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
               <div>
@@ -421,7 +421,7 @@ image: "og-communityday.png"
         </div>
         <div class="col d-flex align-items-center">
             <span class="p-2">
-              <img src="/content/organizers/2024/antonio_lagrotteria.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+              <img src="/content/organizers/antonio_lagrotteria.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
               <div>
