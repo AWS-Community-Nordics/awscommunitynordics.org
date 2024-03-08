@@ -304,27 +304,6 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
-              <img src="/content/speakers/2024/pubudu_jayawardana.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
-            </span>
-            <span class="d-flex align-items-center">
-              <div>
-                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Pubudu Jayawardana <a href="https://twitter.com/pubudusj" target="_blank" class="pl-2"><i class="fab fa-twitter"></i></a></div>
-                <div class="d-flex text-center">AWS Community Builder | Cloud Engineer | Serverless enthusiast | Senior Cloud Engineer  @PostNL</div>
-              </div>
-            </span>
-        </div>
-        <div class="col">
-              <b>Design a mission critical serverless application for high resilience</b>
-              <p>
-                It is really important for a mission critical application to maintain high resilience since it will directly impact the business continuity. In this talk, I am going to share my experience on how we at PostNL use AWS Serverless technologies to design one of the mission critical systems - EBE (Event Broker E-Commerce) for high resilience.
-              </p>
-        </div>
-      </div>
-
-
-      <div class="row pt-4 pb-4">
-        <div class="col d-flex align-items-center">
-            <span class="p-2">
               <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
@@ -362,6 +341,25 @@ image: "og-communityday.png"
         </div>
       </div>
 
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/pubudu_jayawardana.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Pubudu Jayawardana <a href="https://twitter.com/pubudusj" target="_blank" class="pl-2"><i class="fab fa-twitter"></i></a></div>
+                <div class="d-flex text-center">AWS Community Builder | Cloud Engineer | Serverless enthusiast | Senior Cloud Engineer  @PostNL</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Design a mission critical serverless application for high resilience</b>
+              <p>
+                It is really important for a mission critical application to maintain high resilience since it will directly impact the business continuity. In this talk, I am going to share my experience on how we at PostNL use AWS Serverless technologies to design one of the mission critical systems - EBE (Event Broker E-Commerce) for high resilience.
+              </p>
+        </div>
+      </div>
 <!--
 
   <a name="workshop"></a>
