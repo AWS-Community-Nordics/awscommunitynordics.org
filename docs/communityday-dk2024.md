@@ -304,6 +304,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/elizabeth_adegbaju.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Elizabeth Adegbaju <a href="https://www.linkedin.com/in/elizabethadegbaju/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">DevOps Engineer | AWS Community Builder | WTM Ambassador @ Kreuzwerker</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>AWS things you wouldn't do with Django and how to do them</b>
+              <p>
+                  In my talk, "AWS things you wouldn't do with Django and how to do them," I'll share insights from my project where I combined Django with AWS services like DynamoDB, AWS Cognito, S3, and AWS App Runner. I'll discuss how I customized Django models for DynamoDB, implemented authentication with AWS Cognito, stored files in S3, and securely managed environment secrets with AWS Systems Manager Parameter Store for deployment. Attendees will learn practical tips for integrating Django with AWS services effectively.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
