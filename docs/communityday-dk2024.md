@@ -324,6 +324,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/lee_priest.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Lee Priest <a href="https://www.linkedin.com/in/the-lee-priest/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Senior Engineer | Serverless | Writer | AWS Community Builder @LEGO Group</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Quash Your Quota: A Batching Pattern For Eventbridge Schedules</b>
+              <p>
+                Scheduled tasks are a powerful tool for any service. A managed service like the one offered by AWS in the form of Eventbridge Scheduler opens the door to efficiently managing the scheduling of millions of tasks. But what happens when you have a high-traffic service that would see you reaching the quota limit for the service? A batching pattern can help alleviate at least some of the load. By consolidating event triggers and batching relevant updates together within a single schedule, you can effectively navigate quota issues without compromising the quality of your service. In this talk, I'll explore the triggers behind the need for a batching pattern, demonstrate its application, and unveil the profound impact it can have on your architecture and user experience. Discover how to leverage this approach for enhanced efficiency, scalability, and consumer satisfaction.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/luciano_mammino.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
