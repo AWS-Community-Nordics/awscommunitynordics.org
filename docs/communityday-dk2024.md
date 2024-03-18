@@ -364,6 +364,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/julia_morgado.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Julia Furst Morgado <a href="https://www.linkedin.com/in/juliafmorgado/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Global Technologist @ Veeam Software </div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Securing Your Kubernetes Clusters, Workloads and Data on Amazon EKS</b>
+              <p>
+                  Kubernetes has become the de facto standard for container orchestration, providing powerful capabilities for deploying and managing containerized applications at scale. However, running Kubernetes introduces new security risks that must be addressed. This talk provides guidance on securing Kubernetes clusters, workloads, and data on Amazon EKS. We will also cover recent enhancements to EKS' security and dive into the latest features.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/lee_priest.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
