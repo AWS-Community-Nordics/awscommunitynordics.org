@@ -304,6 +304,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/christian_bonzelet.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Christian Bonzelet <a href="https://www.linkedin.com/in/christian-bonzelet/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">AWS Solutions Architect  @DFL Digital Sports</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Perfecting the Play: Elevating Transcription Accuracy in Sports with Natural-Language-Processing</b>
+              <p>
+                In the world of sports, the clarity of game narratives is paramount. Traditional transcription services, however, often fumble with the specialized lexicon of sports commentary, especially when it comes to accurately capturing the names of players and technical terms unique to the game. This session unveils Bundesliga’s approach to tackle this challenge head-on, using Amazon Transcribe enhanced with a custom-built NLP and fuzzy-string matching autocorrection feature, powered by Amazon Comprehend. This session is designed for advanced practitioners who, while familiar with AWS Transcribe and Comprehend, seek to deepen their understanding and application of these tools. Join us to gain insights into how data curation and innovative NLP applications can turn transcription challenges into victories, ensuring that every call of the game is as clear and accurate as the action on the field.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/elizabeth_adegbaju.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
