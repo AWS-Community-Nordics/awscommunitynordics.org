@@ -344,6 +344,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/jakub_gaj.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jakub Gaj <a href="https://www.linkedin.com/in/jakubgaj/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Senior Cloud Architect @ LEGO Group</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>From serverless to functionless</b>
+              <p>
+                Examples of functionless (a.k.a. Lambda-less) integration pattern, where a direct integration between two AWS services is configured instead of using custom code in an intermediary Lambda function, based on Step Functions, AppSync, EventBridge.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/jimmy_dahlqvist.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
