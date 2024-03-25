@@ -304,6 +304,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/anahit_pogosova.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Anahit Pogosova <a href="https://www.linkedin.com/in/anahit-pogosova" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Lead Cloud Software Engineer | AWS Data Hero @ Solita</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>The art of embracing failures</b>
+              <p>
+                Nowadays serverless can mean many different things. Among others, it helps split bigger tasks into smaller pieces and run them in parallel, leveraging the power of distributed systems. It's also fun! And it's seemingly easy, almost magic-like! However, the real world is more nuanced than that. With all the power that distributed systems have given us, comes responsibility.In this talk, learn the most common challenges and pitfalls inherent to distributed systems and the ways to mitigate them. Delve into some real-world examples using two of the essential AWS serverless services: AWS Lambda and Amazon Kinesis. And most importantly, learn to embrace failures. Because as the CTO of Amazon Dr. Werner Vogels likes to say: everything fails, all the time.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/christian_bonzelet.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
