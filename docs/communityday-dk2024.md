@@ -344,6 +344,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/darya_petrashka.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Darya Petrashka <a href="https://www.linkedin.com/in/daryapetrashka/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Senior Data Scientist @ SLB</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Building an AI Chat Assistant with Amazon Bedrock Agent</b>
+              <p>
+                During the session, you will discover the potential of AWS's groundbreaking announcement from last year—the Bedrock agent. Focused on building a smart assistant, this session will provide insights into how the Bedrock agent leverages the reasoning capability of foundation models (FMs) to support workflow orchestration and automation. Explore the capabilities of the Bedrock agent through a captivating example project, where you will witness its ability to monitor updates on messaging platforms like Telegram, seamlessly translate messages, summarize content, and extract actionable insights. By the end of this 30-minute talk, every attendee will gain a deeper understanding of the possibilities that the Bedrock agent holds for optimizing productivity and facilitating smart assistance. Join me as we embark on this exploration of the Bedrock agent's potential.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/elizabeth_adegbaju.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
