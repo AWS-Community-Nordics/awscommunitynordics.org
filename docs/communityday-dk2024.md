@@ -500,6 +500,26 @@ image: "og-communityday.png"
               </p>
         </div>
       </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/vadym_kazulkin.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Vadym Kazulkin <a href="https://www.linkedin.com/in/vadymkazulkin/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Head Of Development @ ip.labs | AWS Community Builder</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>High performance Serverless Java on AWS</b>
+              <p>
+                Java is for many years one of the most popular programming languages, but it used to have hard times in the Serverless community. Java is known for its high cold start times and high memory footprint, comparing to other programming languages like Node.js and Python. In this talk I'll look at the general best practices and techniques we can use to decrease memory consumption, cold start times for Java Serverless development on AWS including GraalVM (Native Image) and AWS own offering SnapStart based on Firecracker microVM snapshot and restore and CRaC (Coordinated Restore at Checkpoint) runtime hooks. I'll also provide a lot of benchmarking on Lambda functions trying out various deployment package sizes, Lambda memory settings, Java compilation options and HTTP (a)synchronous clients and measure their impact on cold and warm start times.
+              </p>
+        </div>
+      </div>
 <!--
 
   <a name="workshop"></a>
