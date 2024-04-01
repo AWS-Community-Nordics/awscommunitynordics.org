@@ -484,6 +484,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/masoom_tulsiani.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Masoom Tulsiani <a href="https://www.linkedin.com/in/masoom" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Cloud Architect @ Rackspace Technologies</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Deploy and Customize AWS Landing Zone using AWS Control Tower Account Factory for Terraform (AFT)</b>
+              <p>
+                This session will be a demo to Deploy and Customize AWS accounts using using Account Factory for Terraform (AFT) for Customizations. Session would include a demo of the AFT account-provisioning pipeline (CodePipeline) & IaC. Session is intended on a Level 200-300 for Cloud Engineers & Architects & will delve into customer experiences.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/pubudu_jayawardana.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
