@@ -543,7 +543,7 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
-              <img src="/content/speakers/2024/pekka_malmirae.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+              <img src="/content/speakers/2024/pekka_malmirae.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
               <div>
