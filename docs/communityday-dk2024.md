@@ -304,6 +304,25 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/aritra_nag.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Aritra Nag <a href="https://www.linkedin.com/in/aritra-nag-1571a278" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Senior Cloud Consultant @ Playground Tech | AWS Community Builder | AWS Ambassador</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Implementing AWS CloudOps in Serverless applications with AWS and OpenTelemetry</b>
+              <p> The session will focus on the significance of OpenTelemetry in serverless implementations and AWS Services like AWS Lambda, enhancing observability and resilience in IT systems, highlighting its unified observability, vendor neutrality, enhanced debugging and performance monitoring, and community-driven nature.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/anahit_pogosova.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
