@@ -484,6 +484,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/martin_qvist.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Martin Qvist <a href="https://www.linkedin.com/in/martinqvist/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Principal Cloud Engineer @ Novo Nordisk </div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Lessons learned from Running AWS ParallelCluster HPC Systems at Novo Nordisk</b>
+              <p>
+                In this talk, we will share our experiences and lessons learned from running AWS ParallelCluster HPC systems in a production environment at Novo Nordisk. Over the past several years, we have been leveraging ParallelCluster to power our high-performance computing (HPC) workloads in the AWS cloud, and during this time, we have encountered a number of challenges and developed strategies to overcome them. The talk will cover best practices for ParallelCluster deployment and configuration, techniques for scaling and resource management, and key insights and takeaways from our ParallelCluster journey. Attendees will learn practical tips and strategies they can apply to their own HPC deployments in the AWS cloud.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/masoom_tulsiani.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
