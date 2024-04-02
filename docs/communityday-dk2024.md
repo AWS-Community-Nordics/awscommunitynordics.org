@@ -349,7 +349,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Darya Petrashka <a href="https://www.linkedin.com/in/daryapetrashka/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">Senior Data Scientist @ SLB</div>
+                <div class="d-flex text-center">Senior Data Scientist @ SLB | AWS Community Builder</div>
               </div>
             </span>
         </div>
@@ -497,6 +497,26 @@ image: "og-communityday.png"
               <b>Deploy and Customize AWS Landing Zone using AWS Control Tower Account Factory for Terraform (AFT)</b>
               <p>
                 This session will be a demo to Deploy and Customize AWS accounts using using Account Factory for Terraform (AFT) for Customizations. Session would include a demo of the AFT account-provisioning pipeline (CodePipeline) & IaC. Session is intended on a Level 200-300 for Cloud Engineers & Architects & will delve into customer experiences.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/pekka_malmirae.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Pekka Malmirae <a href="https://www.linkedin.com/in/pekkamalmirae/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Founder/CEO @ NordHero | AWS Community Builder </div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Mastering AWS deployments with Terraform & Terragrunt</b>
+              <p>
+                Terraform offers a robust, declarative way to describe your cloud infrastructure as code. And unlike some other IaC tools, Terraform also does a decent job comparing differences between your current version of IaC code, the last deployment stored in Terraform state, and the current state of the deployed cloud resources. But when it comes to managing and deploying multiple copies of the same infrastructure to same or different AWS account, an additional tool is needed. And that tool has the name Terragrunt. In this session, you will learn with a practical live demo, how to use Terragrunt to deploy Terraform code on a multi-account environment.
               </p>
         </div>
       </div>
