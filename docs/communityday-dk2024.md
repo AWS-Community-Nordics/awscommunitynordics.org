@@ -309,7 +309,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Andrey Devyatkin <a href="https://www.linkedin.com/in/andreydevyatkin/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">Principal Cloud Engineering Consultant @ Hippo | AWS Community Builder</div>
+                <div class="d-flex text-center">Principal Cloud Engineering Consultant @ Fivexl | AWS Community Builder</div>
               </div>
             </span>
         </div>
