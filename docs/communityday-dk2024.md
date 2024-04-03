@@ -304,6 +304,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/andrey_devyatkin.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Andrey Devyatkin <a href="https://www.linkedin.com/in/andreydevyatkin/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Principal Cloud Engineering Consultant @ Hippo | AWS Community Builder</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>3 Problems of Terraform or Why People Keep Writing Terraform Wrappers</b>
+              <p>
+                  Terragrunt, Terraspace, Terramate, terra... whatever. What is wrong with Terraform so people keep on creating wrappers and solutions around it? How OpenTofu will affect this dynamic? In this presentation, we will look into the fundamental driving forces behind a zoo of wrappers. Moreover, we are going to put together a wrapper ourselves so you can make an educated decision if you need one.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/aritra_nag.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
