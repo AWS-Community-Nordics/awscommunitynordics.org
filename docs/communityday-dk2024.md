@@ -37,7 +37,7 @@ image: "og-communityday.png"
   Speakers are AWS users from the community - including First-Time speakers, AWS User Group leaders, AWS Community Builders, AWS Ambassadors and AWS Heroes - with real life experience in the AWS topics they are presenting.
   </p>
   <h2 class="mt-4">Date &amp; Venue</h2>
-  <p>This event is being held <b>Tuesday, May 7 2024</b> in <a href="https://www.google.com/maps/place/Tietgensgade+65,+1704+K%C3%B8benhavn/@55.6687672,12.5642333,17z/data=!3m1!4b1!4m6!3m5!1s0x4652537289993bc9:0x8052e6ea983db1cd!8m2!3d55.6687672!4d12.5642333!16s%2Fg%2F11c15ydsj7?entry=ttu">DGI Byen</a> (Tietgensgade 65, DK-1704 København V). </p>
+  <p>This event is being held <b>Tuesday, May 7 2024</b> in <a href="https://www.google.com/maps/place/Tietgensgade+65,+1704+K%C3%B8benhavn/@55.6687672,12.5642333,17z/data=!3m1!4b1!4m6!3m5!1s0x4652537289993bc9:0x8052e6ea983db1cd!8m2!3d55.6687672!4d12.5642333!16s%2Fg%2F11c15ydsj7?entry=ttu">DGI Byen's CPH Conference</a> (Tietgensgade 65, DK-1704 København V). </p>
 
   <p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4500.245106414196!2d12.561077077101523!3d55.66946899840643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465253601c5943e1%3A0xa1c9db8493fa81c3!2sCPH%20Conference!5e0!3m2!1sen!2sdk!4v1712325748876!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
