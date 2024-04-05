@@ -563,6 +563,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/olof_mansson.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Olof Månsson <a href="https://www.linkedin.com/in/olof-mansson/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Data Scientist @ Nordea </div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Why every Enterprise should build modular GenAI applications</b>
+              <p>
+                Today it is easy to get blown away by all the newly released foundation models. Models can get outdated at a pace the AI industry has never seen before. But all models are associated with a cost, where the most powerful models usually have the highest price. This leads to the question, should we use the most powerful LLMs to solve all problems or should we use the best model for our use case ROI? Therefore, it has never been more important than now to build modular GenAI applications. In this session, we will focus on 1) the importance of building modular GenAI applications with AWS Bedrock as a core component 2) choosing the right model for the right task 3) showcase what a modular GenAI application can look like
+                </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/pekka_malmirae.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
