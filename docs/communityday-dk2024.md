@@ -280,6 +280,24 @@ image: "og-communityday.png"
 
       <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
 
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/farrah_campbell.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">🌤 Farrah Campbell <a href="https://www.linkedin.com/in/farrahcampbell/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Head of Modern Compute Community @ AWS</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Community Over Competition: The Power of Relationships, Communities, and Fun</b>
+              <p> In today's fast-paced and ever-evolving tech industry, it's easy to get caught up in the race for innovation and success. However, what truly sets apart successful individuals and companies is their ability to foster a sense of community, build relationships, and inject a healthy dose of fun into their work. In this talk, we will explore the power of community over competition in the tech industry. We will delve into the importance of building and nurturing relationships, both internally and externally, to drive innovation, collaboration, and success. We will also discuss the role of fun in the tech industry. While innovation and creativity are crucial, it's equally important to foster an environment that encourages connection, play, relaxation, and enjoyment.
+              </p>
+        </div>
+      </div>
 
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
