@@ -660,6 +660,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/sepehr_mohammadi.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Sepehr Mohammadi <a href="https://www.linkedin.com/in/sepehrmo/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">AWS Community Builder | Cloud Engineer | Serverless enthusiast | Senior Cloud Engineer  @PostNL</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Building Data Platforms with Event-Driven Architecture and Orchestration</b>
+              <p>
+                This talk proposes an integration of Event-Driven Architecture (EDA) with AWS Step Functions to orchestrate ETL pipelines, offering a dynamic, scalable, and efficient solution to data processing workflow management challenges. By leveraging the inherent advantages of EDA - such as loose coupling and asynchronous communication - in conjunction with the managed orchestration service provided by Step Functions, we demonstrate how complex data workflows can be simplified, automated, and made more resilient to changes and failures. Attendees will gain insights into the architectural principles, practical implementation strategies, and real-world applications of combining these technologies to enhance their ETL processes.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/vadym_kazulkin.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
