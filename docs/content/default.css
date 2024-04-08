@@ -128,3 +128,23 @@ img.communityday-sponsor-small {
     margin-left: 10px;
     vertical-align: baseline;
 }
+
+.square {
+    display: inline-block;
+    position: relative;
+    top: 4px;
+    width: 3rem;
+    height: 1rem;
+}
+
+.orange {
+    background: #ed7d32;
+}
+
+.yellow {
+    background: #ffde59;
+}
+
+.green {
+    background: #00bf63;
+}

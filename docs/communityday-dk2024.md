@@ -46,9 +46,9 @@ image: "og-communityday.png"
   <h2>Venue map</h2>
   <p>
 
-    <b>Track 1</b> - Nørrebros Runddel room (orange)<br>
-    <b>Track 2</b> - Sankt Hans Torv room (yellow)<br>
-    <b>Track 3</b> - Foyer lounge (green)<br>
+    <b>Track 1</b> - Nørrebros Runddel room <span class="square orange"></span><br>
+    <b>Track 2</b> - Sankt Hans Torv room <span class="square yellow"></span><br>
+    <b>Track 3</b> - Foyer lounge <span class="square green"></span><br>
 
   </p>
   <div class="row pt-5">
