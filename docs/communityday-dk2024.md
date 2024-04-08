@@ -778,7 +778,6 @@ image: "og-communityday.png"
     <b>Anurag Kale</b><br>
     <b>Harri Lakkala</b><br>
     <b>Pekka Malmirae</b><br>
-    <b>Aki Ristkari</b><br>
     <b>Arne Solheim</b>
   </p>
   <a name="previous"></a>
