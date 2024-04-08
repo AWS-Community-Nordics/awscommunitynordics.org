@@ -665,7 +665,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Sepehr Mohammadi <a href="https://www.linkedin.com/in/sepehrmo/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">AWS Community Builder | Cloud Engineer | Serverless enthusiast | Senior Cloud Engineer  @PostNL</div>
+                <div class="d-flex text-center">Data Engineer @ Qred Bank</div>
               </div>
             </span>
         </div>
