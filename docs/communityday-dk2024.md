@@ -44,7 +44,6 @@ image: "og-communityday.png"
   </p>
 
   <h2>Venue map</h2>
-  <div>Coming soon</div>
   <p>
 
     <b>Track 1</b> - Nørrebros Runddel room (orange)<br>
