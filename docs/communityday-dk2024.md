@@ -377,6 +377,26 @@ image: "og-communityday.png"
         </div>
       </div>
 
+       <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/camille_larsson.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Camille Kirstine Larsson <a href="https://www.linkedin.com/in/camillekirstinelarsson/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Frontend Developer | Girls in IT</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Data Lake for Modern Business</b>
+              <p>
+                Data lakes have emerged as a cornerstone technology for modern businesses, playing a pivotal role in data management and analysis strategies. The essence of a data lake lies in its ability to store vast amounts of raw data in its native format, including structured, semi-structured, and unstructured data. This flexibility allows businesses to harness the full potential of their data assets, fostering innovation and driving strategic decisions based on comprehensive insights.
+              </p>
+        </div>
+      </div>
+
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
