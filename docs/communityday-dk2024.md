@@ -42,20 +42,20 @@ image: "og-communityday.png"
   <p>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4500.245106414196!2d12.561077077101523!3d55.66946899840643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465253601c5943e1%3A0xa1c9db8493fa81c3!2sCPH%20Conference!5e0!3m2!1sen!2sdk!4v1712325748876!5m2!1sen!2sdk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="100%" height="400" frameborder="0" style="border: 0;"></iframe>
   </p>
-<!--
+
   <h2>Venue map</h2>
   <div>Coming soon</div>
   <p>
 
-    <b>Track 1</b> - Event lounge (orange)<br>
-    <b>Track 2</b> - Auditorium (yellow)<br>
-    <b>Track 3</b> - Meeting lounge (teal green)<br>
+    <b>Track 1</b> - Nørrebros Runddel room (orange)<br>
+    <b>Track 2</b> - Sankt Hans Torv room (yellow)<br>
+    <b>Track 3</b> - Foyer lounge (green)<br>
 
   </p>
   <div class="row pt-5">
-    <div class="col text-center"><img src="/content/img/venue-map.png"></div>
+    <div class="col text-center"><img src="/content/img/cph_2024_venue_map.png"></div>
   </div>
--->
+
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets</h2>
   <div>The event is free, but you need to register by issuing a personal ticket on <a href="https://aws-community-day-nordics-2024.eventbrite.com" target="_blank">EventBrite</a></div>
