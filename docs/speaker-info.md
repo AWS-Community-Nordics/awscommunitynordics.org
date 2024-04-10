@@ -30,7 +30,15 @@ image: "og-communityday.png"
   </p>
   <h2 class="mt-4">Date &amp; Venue</h2>
   <p>This event is being held <b>Tuesday, 7 May 2024</b> in <a href="https://maps.app.goo.gl/PjcDvd9wEdmaA98C9">DGI Byen's CPH Conference</a> (Tietgensgade 65, 1704 København). </p>
-
+  <p>
+    There are a number of hotel and accommodations in the area, given the venue is very close to Copenhagen Central Station. A few options:
+    <ul>
+      <li><a href="https://www.dgibyen.dk/en/hotel-tourism/cph-hotel/">CPH Hotel</a>, part of the event venue and the closest</li>
+      <li><a href="https://www.wakeupcopenhagen.dk/hotellerne/koebenhavn/borgergade#/">Wake up</a>, it is a chain, but with this one you can enjoy a 15-20 minutes walk through Strøget</li>
+      <li><a href="https://www.tripadvisor.com/Hotel_Review-g189541-d228439-Reviews-Scandic_Copenhagen-Copenhagen_Zealand.html">Hotel Scandic CPH</a></li>
+      <li><a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-copenhagen-scandinavia?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:nob+h:DKCPHSCA">Radisson Blu Scandinavia Hotel, Copenhagen</a></li>
+  </ul>
+  </p>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
   <p class="mt-4">Agenda has been published in the main event page. Questions about the agenda can be directed to the organizers.

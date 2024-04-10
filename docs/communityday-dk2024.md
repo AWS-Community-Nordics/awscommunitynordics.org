@@ -815,7 +815,6 @@ image: "og-communityday.png"
     <b>Marcus Bladh</b><br>
     <b>Jimmy Dahlqvist</b><br>
     <b>Anurag Kale</b><br>
-    <b>Harri Lakkala</b><br>
     <b>Pekka Malmirae</b><br>
     <b>Arne Solheim</b>
   </p>
