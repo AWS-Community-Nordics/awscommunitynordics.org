@@ -66,7 +66,7 @@ image: "og-communityday.png"
   </p>
   <a name="recording"></a>
   <h2 class="mt-4">Recording</h2>
-  <p class="mt-4">Talks on the Main Stage and Side Stage will be recorded. It will be announced later if we can record Lightning talks. All the talks should have the Q&A to be at the end of the talk to support the recording of the session.
+  <p class="mt-4">All talks will be recorded. All the talks should have the Q&A to be at the end of the talk to support the recording of the session.
   </p>
   <p>
   If you wish not to be recorded / published, let the organizers know in advance.
