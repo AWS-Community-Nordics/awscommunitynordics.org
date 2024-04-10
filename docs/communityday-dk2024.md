@@ -748,7 +748,7 @@ image: "og-communityday.png"
 
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.cloud2.fi/" target="_blank"><img src="/content/img/cloud2_logo_white.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><img src="/content/img/coming_soon_logo.jpeg" class="communityday-sponsor-small"></div>
+    <div class="col text-center"><a href="https://www.trustpilot.com/" target="_blank"><img src="/content/img/sponsor_trustpilot.png" class="communityday-sponsor-small"></a></div>
   </div>
 
 
