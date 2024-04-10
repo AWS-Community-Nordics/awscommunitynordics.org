@@ -739,7 +739,7 @@ image: "og-communityday.png"
 
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><a href="https://www.trustpilot.com/" target="_blank"><img src="/content/img/sponsor_trustpilot.png" class="communityday-sponsor-small"></a></div>
+    <div class="col text-center"><a href="https://www.novonordisk.com/" target="_blank"><img src="/content/img/novo_logo.png" class="communityday-sponsor-small"></a></div>
   </div>
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.couchbase.com/" target="_blank"><img src="/content/img/couchbase_logo.png" class="communityday-sponsor-small"></a></div>
@@ -748,7 +748,7 @@ image: "og-communityday.png"
 
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.cloud2.fi/" target="_blank"><img src="/content/img/cloud2_logo_white.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><a href="https://www.novonordisk.com/" target="_blank"><img src="/content/img/novo_logo.png" class="communityday-sponsor-small"></a></div>
+    <div class="col text-center"><a href="https://www.trustpilot.com/" target="_blank"><img src="/content/img/sponsor_trustpilot.png" class="communityday-sponsor-small"></a></div>
   </div>
 
 
