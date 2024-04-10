@@ -59,7 +59,7 @@ image: "og-communityday.png"
   <p class="mt-4">You are expected to use title slide of the AWS Community Day design reflecting the sponsors, title and date of the talk. This is important as these will be shown also in the recordings. The event is international and the language used in the conference is English. All talk contents and written materials should support this to enable our diverse participants to consume the content.
   </p>
   <p>
-  Slide deck template can be downloaded from <a href="/content/img/CommunityDayNordics2023_SlideTemplate.pptx">here</a>.
+  Slide deck template for 2024 will be shared soon. <!-- can be downloaded from <a href="/content/img/CommunityDayNordics2024_SlideTemplate.pptx">here</a -->
   </p>
   <p>
   Also make sure that you have the rights to use any images or illustrations you intend to use on your decks
@@ -75,7 +75,8 @@ image: "og-communityday.png"
   <h2 class="mt-4">FAQ</h2>
   <p class="mt-4"><b>When can a speaker test the equipment</b></p>
   <p>
-  We will organize a common tech check in each of the venues at 8:30 on the event day. Alternatively, you should arrive 15min prior to your talk time to the appropriate venue to ensure that your own equipment is working propoerly. There will be someone from the organizers managing microphones and other similar tech, so you need to only bring your laptop with the appropriate video connector and possibly a remote clicker if you wish to use one.
+  <!-- We will organize a common tech check in each of the venues at 8:30 on the event day. Alternatively, you should arrive 15min prior to your talk time to the appropriate venue to ensure that your own equipment is working propoerly. There will be someone from the organizers managing microphones and other similar tech, so you need to only bring your laptop with the appropriate video connector and possibly a remote clicker if you wish to use one. -->
+  We will soon share details on when check is position.
   </p>
   <p>
   <b>What kind of microphones are we using</b>
