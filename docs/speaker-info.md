@@ -84,10 +84,4 @@ image: "og-communityday.png"
   <p>
   We have headset and handheld microphones available. Microphone use is required because of venue size, background noise and because of wanting to make the content accessible for everyone.
   </p>
- <p>
-  <b>Do the rooms have secondary screen for speaker notes</b>
-  </p>
-  <p>
-  In the main venue, there will be secondary screen provided. In other venues, there will be a standing table or speaker booth, which will be used and your laptop will be used for speaker notes.
-  </p>
 </div>
