@@ -43,7 +43,7 @@ image: "og-communityday.png"
   </p>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
-  <p class="mt-4">Agenda has been published in the main event page. Questions about the agenda can be directed to the organizers.
+  <p class="mt-4">Agenda will be published in the main event page. Questions about the agenda can be directed to the organizers.
   </p>
   <a name="dinner"></a>
   <h2 class="mt-4">Speaker Dinner</h2>
