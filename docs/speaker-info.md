@@ -59,7 +59,7 @@ image: "og-communityday.png"
   <p class="mt-4">You are expected to use title slide of the AWS Community Day design reflecting the sponsors, title and date of the talk. This is important as these will be shown also in the recordings. The event is international and the language used in the conference is English. All talk contents and written materials should support this to enable our diverse participants to consume the content.
   </p>
   <p>
-  Slide deck template for 2024 will be shared soon. <!-- can be downloaded from <a href="/content/img/CommunityDayNordics2024_SlideTemplate.pptx">here</a -->
+  Slide deck template for 2024 can be downloaded from <a href="/content/img/CommunityDayNordics2024_SlideTemplate.pptx">here</a>
   </p>
   <p>
   Also make sure that you have the rights to use any images or illustrations you intend to use on your decks
