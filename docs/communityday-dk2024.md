@@ -711,7 +711,7 @@ image: "og-communityday.png"
         <div class="col">
               <b>Building Data Platforms with Event-Driven Architecture and Orchestration</b>
               <p>
-                This talk proposes an integration of Event-Driven Architecture (EDA) with AWS Step Functions to orchestrate ETL pipelines, offering a dynamic, scalable, and efficient solution to data processing workflow management challenges. By leveraging the inherent advantages of EDA - such as loose coupling and asynchronous communication - in conjunction with the managed orchestration service provided by Step Functions, we demonstrate how complex data workflows can be simplified, automated, and made more resilient to changes and failures. Attendees will gain insights into the architectural principles, practical implementation strategies, and real-world applications of combining these technologies to enhance their ETL processes.
+                In this talk, we explore the integration of Event-Driven Architecture (EDA) and workflow management to build and orchestrate microservices for modern Data Platforms. This approach offers a dynamic, scalable, and efficient solution to managing complex data processing workflows. By leveraging the inherent advantages of EDA - such as loose coupling and asynchronous communication - in conjunction with the managed orchestration service provided by Step Functions, we demonstrate how complex data workflows can be simplified, automated, and made more resilient to changes and failures. Attendees will gain insights into the architectural principles, practical implementation strategies, and real-world applications of combining these technologies to build a data platform with modern data stack.
               </p>
         </div>
       </div>
