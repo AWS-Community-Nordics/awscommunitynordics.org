@@ -460,6 +460,25 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/gunnar_grosch.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">🌤Gunnar Grosch <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Principal Developer Advocate @ AWS</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Developer Mindset: Embracing GitOps for Network Security and Compliance</b>
+              <p> As modern cloud-native applications evolve, the traditional network testing and security compliance in infrastructure deployments often struggle to keep up. In this talk we will discuss how leveraging GitOps and Generative AI allows for automated consistent network testing, security compliance enforcement, validation testing and standardization of infrastructure deployments across an organization.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/jakub_gaj.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
