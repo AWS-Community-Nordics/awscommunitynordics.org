@@ -464,7 +464,7 @@ image: "og-communityday.png"
             </span>
             <span class="d-flex align-items-center">
               <div>
-                <div class="d-flex justify-content-center font-weight-bold p-2 lead">🌤Gunnar Grosch <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Gunnar Grosch <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
                 <div class="d-flex text-center">Principal Developer Advocate @ AWS</div>
               </div>
             </span>
