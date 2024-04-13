@@ -699,6 +699,26 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/safae_nabet.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Safae Nabet <a href="https://www.linkedin.com/in/safae-nabet/?originalSubdomain=fr" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Cloud Solutions Engineer @ Agila.Cloud</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Amazon Connect: The Contact Center Makeover You Can't Hang Up On</b>
+              <p>
+                My presentation will focus on the AWS service Amazon Connect. I will also discuss how the contactFlows can be designed to give the best customer service experience. I want to go through interesting features of Amazon Connect and how they can be leveraged for different use cases. I will finish the presentation with ideas on how Amazon Connect can be used alongside other services like lambda functions, DynamoDB, Amazon Lex and Amazon Bedrock to create smart contact centers on AWS.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/sepehr_mohammadi.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
