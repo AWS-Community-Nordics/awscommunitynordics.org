@@ -599,6 +599,23 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
+              <img src="/content/speakers/2024/marian_puhl.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Marian Puhl <a href="https://www.linkedin.com/in/marianpuhl/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Sr. Solutions Engineer, Nordics @ Couchbase</div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Coming soon!</b>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
               <img src="/content/speakers/2024/martin_qvist.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
