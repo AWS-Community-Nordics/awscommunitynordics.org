@@ -664,7 +664,42 @@ image: "og-communityday.png"
         </div>
       </div>
 
-       <div class="row pt-4 pb-4">
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/unknown.png" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">TBD</div>
+                <div class="d-flex text-center">Someone @ Trustpilot </div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>TBD</b>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/unknown.png" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">TBD</div>
+                <div class="d-flex text-center">Someone @ Novo Nordisk </div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>TBD</b>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
               <img src="/content/speakers/2024/paulina_dubas.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
