@@ -678,7 +678,7 @@ image: "og-communityday.png"
             </span>
         </div>
         <div class="col">
-              <b>TBD</b>
+              <b>Coming soon</b>
         </div>
       </div>
 
@@ -695,7 +695,7 @@ image: "og-communityday.png"
             </span>
         </div>
         <div class="col">
-              <b>TBD</b>
+              <b>Coming soon</b>
         </div>
       </div>
 
