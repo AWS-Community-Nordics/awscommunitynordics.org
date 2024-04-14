@@ -13,7 +13,6 @@ image: "og-communityday.png"
     <h2 class="display-5 mt-4">Copenhagen | Tuesday, 7 May 2024</h2>
     <h2 class="display-5 mt-4">
       <a class="btn btn-lg btn-primary" href="https://aws-community-day-nordics-2024.eventbrite.com" role="button" target="_blank" style="margin-bottom: 0.5rem;">Registration is open</a>
-      <a class="btn btn-lg btn-primary" href="https://sessionize.com/aws-community-day-nordics-2024/" role="button" target="_blank" style="margin-bottom: 0.5rem;">Apply for Call for Papers</a>
     </h2>
   </div>
 </div>
@@ -268,14 +267,6 @@ image: "og-communityday.png"
 
   <a name="speakers"></a>
   <h2 class="mt-4">Talks &amp; Speakers</h2>
-
-  <div>
-     <h2 class="display-5 mt-4">
-      <a class="btn btn-lg btn-primary" href="https://sessionize.com/aws-community-day-nordics-2024/" role="button" target="_blank">Apply for Call for Papers</a>
-      <a href="https://sessionize.com/" target="_blank"><img src="https://sessionize.com/landing/images/brand/banners/sessionize-banner-small.png" alt="The smart way to do Call for Papers, Schedule and Speaker Management." width="128" height="80"></a>
-     </h2>
-  </div>
-
 
       <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
 
