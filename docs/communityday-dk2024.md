@@ -673,7 +673,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">TBD</div>
-                <div class="d-flex text-center">Someone @ Trustpilot </div>
+                <div class="d-flex text-center">Someone interesting @ Trustpilot </div>
               </div>
             </span>
         </div>
@@ -690,7 +690,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">TBD</div>
-                <div class="d-flex text-center">Someone @ Novo Nordisk </div>
+                <div class="d-flex text-center">Someone interesting @ Novo Nordisk </div>
               </div>
             </span>
         </div>
