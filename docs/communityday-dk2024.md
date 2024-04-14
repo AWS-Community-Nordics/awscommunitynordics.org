@@ -664,6 +664,27 @@ image: "og-communityday.png"
         </div>
       </div>
 
+       <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
+            <span class="p-2">
+              <img src="/content/speakers/2024/paulina_dubas.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+            </span>
+            <span class="d-flex align-items-center">
+              <div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Paulina Dubas <a href="https://www.linkedin.com/in/paulinadubas/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Lead DevOps Engineer @ Dubas Consulting </div>
+              </div>
+            </span>
+        </div>
+        <div class="col">
+              <b>Green Yet Lean: Efficient AWS Strategies for the Environmentally Conscious Developer</b>
+              <p>
+                In this session, we'll dive into how leveraging AWS's serverless and managed services can significantly lessen our environmental footprint while maintaining, or even enhancing, operational efficiency. We'll explore the transformative power of efficient coding, smart scaling, and the strategic selection of AWS regions powered by renewable energy to not only optimize resource utilization but also align with sustainability goals. This talk aims to equip you with practical, impactful strategies for integrating eco-friendly practices into your AWS projects, demonstrating that high performance and environmental responsibility can go hand in hand. Discover how to champion sustainability in your work, making each line of code you write a step towards a more sustainable future in technology.
+              </p>
+        </div>
+      </div>
+
+
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
