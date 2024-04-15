@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  "AWS Community Day Nordics in Copenhagen 2024"
-description: "The AWS Community Day is a free full day event for AWS users organized by the Nordic AWS community. In 2024 the event is held in Copenhagen."
+description: "The AWS Community Day is a free full day event for AWS users organized by the Nordic AWS community. In
+2024 the event is held in Copenhagen."
 navigation: "communityday"
 permalink: /communityday/
 image: "og-communityday.png"
@@ -42,7 +43,7 @@ image: "og-communityday.png"
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4500.245106414196!2d12.561077077101523!3d55.66946899840643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465253601c5943e1%3A0xa1c9db8493fa81c3!2sCPH%20Conference!5e0!3m2!1sen!2sdk!4v1712325748876!5m2!1sen!2sdk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="100%" height="400" frameborder="0" style="border: 0;"></iframe>
   </p>
 
-  <h2>Venue map</h2>
+<h2>Venue map</h2>
   <p>
 
     <b>Track 1</b> - <span class="square orange"></span> - Nørrebros Runddel room<br>
@@ -54,219 +55,17 @@ image: "og-communityday.png"
     <div class="col text-center"><img src="/content/img/cph_2024_venue_map.png" style="width:50%"></div>
   </div>
 
-  <a name="tickets"></a>
-  <h2 class="mt-4">Tickets</h2>
+<a name="tickets"></a>
+<h2 class="mt-4">Tickets</h2>
   <div>The event is free, but you need to register by issuing a personal ticket on <a href="https://aws-community-day-nordics-2024.eventbrite.com" target="_blank">EventBrite</a></div>
 
-  <a name="agenda"></a>
-  <h2 class="mt-4">Agenda</h2>
-  <div>Coming soon</div>
+<a name="agenda"></a>
+<h2 class="mt-4">Agenda</h2>
 
-<!--
-  <p class="mt-4">The event hours are 9:00 - 17:30 with registration and coffee starting preliminarily at 8:00. Detailed times and content subject to change. Always check back here for the latest version of the agenda.
-  <div style="overflow-x:auto;">
-    <table class="table table-striped" id="communityday-agenda">
-	  	<thead>
-		  	<tr>
-			  	<th scope="col" width="8%">Time</th>
-				  <th scope="col" width="24%">Track 1</th>
-          <th scope="col" width="24%">Track 2</th>
-          <th scope="col" width="24%">Track 3</th>
-        </tr>
-      </thead>
-	  	<tbody>
-            <tr>
-			  	<th scope="row" class="time">8:00 - 9:00</th>
-  				<td colspan="5"><b>Registration and Breakfast</b></td>
-  			</tr>
-	  		<tr>
-		  		<th scope="row" class="time">9:00 - 9:15</th>
-                <td colspan="5">
-                  <b>Opening Remarks</b>
-                  <p>
-                    Rolf Koski <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-                    Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-                    Antonio Lagrotteria <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                  </p>
-                </td>
-			</tr>
-  			<tr>
-	  			<th scope="row" class="time">9:15 - 10.00</th>
-				  <td colspan="4">
-				    <b>Keynote</b>
-				    <p>
-				      Ursula Koski <a href="https://www.linkedin.com/in/ursulakoski/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
-				    </p>
-				  </td>
-			  </tr>
-			  <tr>
-				  <th scope="row" class="time">10:00 - 12:00</th>
-				  <td>
-				    <p>
-				      <b>Event-Driven and serverless in world of IoT</b> (10:00)<br />
-                      Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a>
-				    </p>
-                    <p>
-                      <b>The Tao of Event-Driven Architectures: a tranquil state of mind through future-proof event design </b> (11:15)<br />
-                      Luc van Donkersgoed <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a>
-                    </p>
-                  </td>
-                  <td>
-                        <p>
-                          <b>Standardise Data Scientist Development Environment</b> (10:00)<br />
-                          Mattias Svensson <a href="https://www.linkedin.com/in/mattias-olof-svensson/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                        </p>
-                        <p>
-                          <b>AWS Disaster Recovery Simulation</b> (10:30)<br />
-                          Pekka Korolainen
-                        </p>
-                        <p>
-                          <b>CDK-based Continuous Deployment for OSS</b> (11:15)<br />
-                          Laura Vuorenoja <a href="https://twitter.com/vuorenoja" target="_blank"><i class="fab fa-twitter"></i></a><br />
-                        </p>
-                  </td>
-                  <td>
-                    <p>
-                      <b>How Firstbeat boosted its productivity in heart rate variability analytics</b> (10:15) <br/>
-                      Janne Kuha <a href="https://www.linkedin.com/in/jannekuha/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-                    </p>
-                    <p>
-                      <b>Infrastructure FROM Code: Logical evolution of the cloud </b> (10:45)<br />
-                      Emrah Samdan <a href="https://www.linkedin.com/in/emrahsamdan/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                    <p>
-                      <b>Cost optimisation and need for refactoring </b> (11:15)<br />
-                      Jali Pieskä
-                    </p>
-                    <p>
-                      <b>How to DDoS yourself while redeploying your AWS Lambda </b> (11:45)<br />
-                      Askar Ibragimov
-                    </p>
-                  </td>
-                  <td><b>&nbsp;</b></td>
-			  </tr>
-              <tr>
-				  <th scope="row" class="time">12:00 - 13:00</th>
-				  <td colspan="4"><b>Lunch Break and Networking</b></td>
-			  </tr>
-			  <tr>
-				  <th scope="row" class="time">13:00 - 14:45</th>
-				  <td>
-                    <p>
-                      <b>Serverless Data Streaming with Kinesis and AWS Lambda</b> (13:00)<br />
-                      Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a>
-                    </p>
-                    <p>
-                      <b>(Re)Architecting for the Cloud by disconnecting things</b> (14:00)<br />
-                      Ari Palo <a href="https://twitter.com/donkersgood" target="_blank"><i class="fab fa-twitter"></i></a>
-                    </p>
-                  </td>
-                  <td>
-                    <p>
-                      <b>Cloud Hacking Scenarios</b> (13:00)<br />
-                      Michal Brygidyn <a href="https://www.linkedin.com/in/michalbrygidyn/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                    <p>
-                      <b>Boosting Performance with AWS Serverless in Finnish Parliamentary Elections</b> (14:00)<br />
-                      Harri Lammi <a href="https://www.linkedin.com/in/harrilammi/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                  </td>
-                  <td>
-                    <p>
-                      <b> Thinking beyond the default VPC</b> (13:00)<br />
-                      Petri Kallberg <a href="https://www.linkedin.com/in/petrikallberg/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                    <p>
-                      <b>Common API with API Gateway and Lambdas</b> (13:30)<br />
-                      Simo Haakana <a href="https://www.linkedin.com/in/simohaakana/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                    <p>
-                      <b> Step Up Your StepFunctions: Turbocharge Your State Machine Building</b> (14:00)<br />
-                      Lars Jacobsson <a href="https://www.linkedin.com/in/lars-jacobsson-a9518b23/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                    <p>
-                      <b>Well-Architecting Sustainably</b> (14.30)<br />
-                      Niklas Westerstråhle <a href="https://www.linkedin.com/in/niklaswesterstrahle/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                  </td>
-                  <td>
-                     <p>
-                       <b> Serverlesspresso Workshop</b> (13:00)<br />
-                       Marcia Villalba <a href="https://twitter.com/mavi888uy" target="_blank"><i class="fab fa-twitter"></i></a>
-                     </p>
-                  </td>
-			  </tr>
-              <tr>
-				  <th scope="row" class="time">14:45 - 15:15</th>
-				  <td colspan="4"><b>Coffee Break</b></td>
-			  </tr>
-			  <tr>
-				  <th scope="row" class="time">15:15 - 17:00</th>
-				  <td>
-                    <p>
-                      <b>Doing serverless on AWS with Terraform for real</b> (15:15)<br />
-                      Anton Babenko <a href="https://github.com/antonbabenko" target="_blank"><i class="fab fa-github"></i></a>
-                    </p>
-                    <p>
-                      <b>Securing AWS Workloads at Scale</b> (16:15)<br />
-                      Nick Jones <a href="https://twitter.com/nojonesuk/" target="_blank"><i class="fab fa-twitter"></i></a>
-                    </p>
-                  </td>
-                  <td>
-                    <p>
-                      <b> It's not you, it's me - Blameless as a culture and how to leverage it to learn more about yourself</b> (15:15)<br />
-                      Marcus Bladh <a href="https://twitter.com/m_bladh" target="_blank"><i class="fab fa-twitter"></i></a>
-                    </p>
-                    <p>
-                      <b>A song of Decentralization and Observability: Dance with OpenTelemetry</b> (16:15)<br />
-                      Aritra Nag <a href="https://www.linkedin.com/in/aritra-nag-1571a278/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                  </td>
-                  <td>
-                    <p>
-                      <b>CANCELED - How adversaries see your cloud</b> (15:15)<br />
-                      Tuomo Makkonen <a href="https://twitter.com/tmakkonen" target="_blank"><i class="fab fa-twitter"></i></a>
-                    </p>
-                    <p>
-                      <b>Security Lake - Experience Working with a Preview AWS Service</b> (15:45)<br />
-                      Alari Varmann <a href="https://www.linkedin.com/in/alarivarmann/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                    <p>
-                      <b>Rethinking AWS CloudOps and Platform Engineering for Digital Acceleration at Scale</b> (16:15)<br />
-                      Bruno Amaro Almeida <a href="https://linkedin.com/in/brunoamaroalmeida" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                    <p>
-                      <b>Common Fate: A platform for managing temporary elevated AWS access</b> (16:45)<br />
-                      Theo Mylonidis <a href="https://www.linkedin.com/in/tmylo/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-                  </td>
-                  <td>
-                     <p>
-                       <b> Serverlesspresso Workshop continued</b><br />
-                       Marcia Villalba <a href="https://twitter.com/mavi888uy" target="_blank"><i class="fab fa-twitter"></i></a>
-                     </p>
-                  </td>
-			  </tr>
-			  <tr>
-				  <th scope="row" class="time">17:00</th>
-				  <td colspan="4">
-				    <b>Closing Remarks and Community Raffle</b>
-				    <p>
-                      Rolf Koski <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-                      Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-                      Antonio Lagrotteria <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    </p>
-				  </td>
-			  </tr>
-		  </tbody>
-	  </table>
-    </div>
-  </p>
--->
+<script type="text/javascript" src="https://sessionize.com/api/v2/w5rgxkk4/view/GridSmart"></script>
 
-
-  <a name="speakers"></a>
-  <h2 class="mt-4">Talks &amp; Speakers</h2>
+<a name="speakers"></a>
+<h2 class="mt-4">Talks &amp; Speakers</h2>
 
       <!-- h4>All videos can be found on the <a href="https://www.youtube.com/playlist?list=PLGPzSTy-uUmMiey6QruEpfOPbRdNQeWdw" target="_blank"><i class="fab fa-youtube"></i>AWS Community Nordic YouTube Channel</a></h4 -->
 
@@ -819,6 +618,7 @@ image: "og-communityday.png"
               </p>
         </div>
       </div>
+
 <!--
 
   <a name="workshop"></a>
@@ -835,8 +635,8 @@ image: "og-communityday.png"
   </p>
 -->
 
-  <a name="sponsors"></a>
-  <h2 class="mt-4">Sponsors</h2>
+<a name="sponsors"></a>
+<h2 class="mt-4">Sponsors</h2>
 
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
 
@@ -857,8 +657,8 @@ image: "og-communityday.png"
 
 
   <!-- End mc_embed_signup -->
-  <a name="contact"></a>
-  <h2 class="mt-4">Contact &amp; Organizers</h2>
+<a name="contact"></a>
+<h2 class="mt-4">Contact &amp; Organizers</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
   <h3>Main Organizers</h3>
   <div class="row pt-4 pb-4">
@@ -912,7 +712,7 @@ image: "og-communityday.png"
   </div>
 
 
-  <h3>Supporting Organizers</h3>
+<h3>Supporting Organizers</h3>
   <p>
     <b>Anders Björnestad</b><br>
     <b>Marcus Bladh</b><br>
