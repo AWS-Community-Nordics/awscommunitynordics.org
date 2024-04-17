@@ -541,7 +541,7 @@ image: "og-communityday.png"
 
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
-            <div class="d-flex">
+            <div>
               <span class="p-2">
                 <img src="/content/speakers/2024/sebastian_skott.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
               </span>
@@ -552,7 +552,7 @@ image: "og-communityday.png"
                 </div>
               </span>
             </div>
-            <div class="d-flex">
+            <div>
               <span class="p-2">
                 <img src="/content/speakers/2024/rasmus_balder.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
               </span>
@@ -563,7 +563,7 @@ image: "og-communityday.png"
                 </div>
               </span>
             </div>
-            <div class="d-flex">
+            <div>
               <span class="p-2">
                 <img src="/content/speakers/2024/jasper_hahn.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
               </span>
