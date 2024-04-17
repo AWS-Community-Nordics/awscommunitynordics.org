@@ -552,7 +552,7 @@ image: "og-communityday.png"
                 </div>
               </span>
             </div>
-            <div>
+            <div style="margin-top: 2rem;">
               <span class="p-2">
                 <img src="/content/speakers/2024/rasmus_balder.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
               </span>
@@ -563,7 +563,7 @@ image: "og-communityday.png"
                 </div>
               </span>
             </div>
-            <div>
+            <div style="margin-top: -1.7rem;">
               <span class="p-2">
                 <img src="/content/speakers/2024/jasper_hahn.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
               </span>
