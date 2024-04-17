@@ -541,6 +541,39 @@ image: "og-communityday.png"
 
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
+            <div>
+              <span class="p-2">
+                <img src="/content/speakers/2024/sebastian_skott.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+              </span>
+              <span class="d-flex align-items-center">
+                <div>
+                  <div class="d-flex justify-content-center font-weight-bold p-2 lead">Sebastian Schou Ardahl Skøtt <a href="https://www.linkedin.com/in/sebastian-skott/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                  <div class="d-flex text-center">Infrastructure Engineer @ Novo Nordisk </div>
+                </div>
+              </span>
+            </div>
+            <div>
+              <span class="p-2">
+                <img src="/content/speakers/2024/rasmus_balder.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+              </span>
+              <span class="d-flex align-items-center">
+                <div>
+                  <div class="d-flex justify-content-center font-weight-bold p-2 lead">Rasmus Balder Nordbjærg <a href="https://www.linkedin.com/in/rasmus-balder-nordbjaerg/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                  <div class="d-flex text-center">Senior Cloud Engineer @ Novo Nordisk </div>
+                </div>
+              </span>
+            </div>
+        </div>
+        <div class="col">
+              <b>Empowering innovation through delegation: Novo Nordisk's user-centric AWS transformation</b>
+              <p>
+                Embark on a journey with us as we chart the course of Novo Nordisk's transformative five-year adventure with AWS. Imagine the early days: AWS accounts in Novo Nordisk were created based a one-size-fits-all approach that tried to fit all AWS projects in the same box. The landing zone was being operated and maintained by a central team, and this was a great starting point for getting the company into AWS. But as our story unfolded, the plot thickened. Our other business units, driven by a thirst for innovation and a need for customization, began to construct their own platforms within this framework. They sought—and created—tailored accounts, each equipped with bespoke resources, ready to serve their distinct business narratives. It's time to turn the page to our latest chapter: the AWS delegated landing zone. Crafted with our users and stakeholders as co-authors, this revolutionary model redefines our cloud ecosystem, with users firmly at its heart. It's a tale of empowerment, where shared responsibility isn't just a concept, but a practiced creed, and trust and privileges are not just given, but dynamically delegated. In our presentation, we'll invite you behind the scenes of this ground-breaking approach. We'll dissect the anatomy of our delegated landing zone, revealing how it's poised to catapult our agility and adaptability to new heights. Join us for an insightful session that promises not just to tell, but to inspire your own cloud transformation narrative.
+              </p>
+        </div>
+      </div>
+
+      <div class="row pt-4 pb-4">
+        <div class="col d-flex align-items-center">
             <span class="p-2">
               <img src="/content/speakers/2024/pubudu_jayawardana.jpeg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
