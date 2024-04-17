@@ -541,7 +541,7 @@ image: "og-communityday.png"
 
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
-            <div>
+            <div class="d-flex">
               <span class="p-2">
                 <img src="/content/speakers/2024/sebastian_skott.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
               </span>
@@ -552,7 +552,7 @@ image: "og-communityday.png"
                 </div>
               </span>
             </div>
-            <div>
+            <div class="d-flex">
               <span class="p-2">
                 <img src="/content/speakers/2024/rasmus_balder.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
               </span>
@@ -560,6 +560,17 @@ image: "og-communityday.png"
                 <div>
                   <div class="d-flex justify-content-center font-weight-bold p-2 lead">Rasmus Balder Nordbjærg <a href="https://www.linkedin.com/in/rasmus-balder-nordbjaerg/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
                   <div class="d-flex text-center">Senior Cloud Engineer @ Novo Nordisk </div>
+                </div>
+              </span>
+            </div>
+            <div class="d-flex">
+              <span class="p-2">
+                <img src="/content/speakers/2024/jasper_hahn.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+              </span>
+              <span class="d-flex align-items-center">
+                <div>
+                  <div class="d-flex justify-content-center font-weight-bold p-2 lead">Jasper Hahn <a href="https://www.linkedin.com/in/jasper-hahn/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                  <div class="d-flex text-center">Software Architect @ Novo Nordisk </div>
                 </div>
               </span>
             </div>
