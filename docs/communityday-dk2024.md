@@ -464,23 +464,6 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
-              <img src="/content/speakers/2024/unknown.png" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
-            </span>
-            <span class="d-flex align-items-center">
-              <div>
-                <div class="d-flex justify-content-center font-weight-bold p-2 lead">TBD</div>
-                <div class="d-flex text-center">Someone interesting @ Novo Nordisk </div>
-              </div>
-            </span>
-        </div>
-        <div class="col">
-              <b>Coming soon</b>
-        </div>
-      </div>
-
-      <div class="row pt-4 pb-4">
-        <div class="col d-flex align-items-center">
-            <span class="p-2">
               <img src="/content/speakers/2024/paulina_dubas.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
@@ -532,7 +515,7 @@ image: "og-communityday.png"
                 </div>
               </span>
             </div>
-            <div">
+            <div>
               <span class="p-2">
                 <img src="/content/speakers/2024/rasmus_balder.jpg" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
               </span>
