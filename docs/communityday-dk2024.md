@@ -379,7 +379,8 @@ image: "og-communityday.png"
             </span>
         </div>
         <div class="col">
-              <b>Coming soon!</b>
+              <b>Coding With AI: Vector Search and RAG</b>
+              <p>If you’re a developer, you can use powerful new AI technologies right now to address common challenges and enhance the capabilities of your applications. In this session, we’ll offer practical tips on how to use AI with vector search and vector embedding to make searches more meaningful, intuitive, and tailored to user needs. You’ll learn how to integrate AI with LangChain and Couchbase vector search to solve real-world problems and simplify complex coding tasks. We’ll cover: Vector search and vector embeddings – Why it’s important to integrate them into your database for improved search results; LangChain for advanced data interactions – How to get richer data interactions and enhanced application responses; Retrieval-augmented generation (RAG) – How to minimize LLM hallucinations by combining vector search with LangChain; Hybrid search – How to improve efficiency and accuracy by combining vectors with SQL and full-text search in a single query</p>
         </div>
       </div>
 
