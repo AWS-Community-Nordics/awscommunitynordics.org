@@ -453,7 +453,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Ronnie de Giorgio <a href="https://www.linkedin.com/in/rondegiorgio/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">Senior Site Reliability Engineering Manager @ Nordea </div>
+                <div class="d-flex text-center">Senior Site Reliability Engineering Manager @ Trustpilot </div>
               </div>
             </span>
         </div>
@@ -473,7 +473,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Paulina Dubas <a href="https://www.linkedin.com/in/paulinadubas/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">Lead DevOps Engineer @ Trustpilot </div>
+                <div class="d-flex text-center">Lead DevOps Engineer @ Dubas Consulting </div>
               </div>
             </span>
         </div>
