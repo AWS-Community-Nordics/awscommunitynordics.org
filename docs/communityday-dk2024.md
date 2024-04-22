@@ -52,7 +52,7 @@ image: "og-communityday.png"
 
   </p>
   <div class="row pt-5">
-    <div class="col text-center"><img src="/content/img/cph_2024_venue_map.png" style="width:50%"></div>
+    <div class="col text-center"><img src="/content/img/cph_2024_venue_map.png" style="width:75%"></div>
   </div>
 
 <a name="tickets"></a>
