@@ -82,6 +82,6 @@ image: "og-communityday.png"
   <b>What kind of microphones are we using</b>
   </p>
   <p>
-  We have headset and handheld microphones available. Microphone use is required because of venue size, background noise and because of wanting to make the content accessible for everyone.
-  </p>
+    There will be headset or Handheld microphones. There will be connectors HDMI + Adapters ex. USBC. Microphone use is required because of venue size, background noise and because of wanting to make the content accessible for everyone.
+</p>
 </div>
