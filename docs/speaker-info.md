@@ -75,8 +75,7 @@ image: "og-communityday.png"
   <h2 class="mt-4">FAQ</h2>
   <p class="mt-4"><b>When can a speaker test the equipment</b></p>
   <p>
-  <!-- We will organize a common tech check in each of the venues at 8:30 on the event day. Alternatively, you should arrive 15min prior to your talk time to the appropriate venue to ensure that your own equipment is working propoerly. There will be someone from the organizers managing microphones and other similar tech, so you need to only bring your laptop with the appropriate video connector and possibly a remote clicker if you wish to use one. -->
-  We will soon share details on when check is position.
+  Speakers can come at the venues from 7:30 on the event day. Alternatively, you should arrive 15min prior to your talk time to the appropriate venue to ensure that your own equipment is working properly. There will be someone from the organizers/venue managing microphones and other similar tech, so you need to only bring your laptop with the appropriate video connector and possibly a remote clicker if you wish to use one.
   </p>
   <p>
   <b>What kind of microphones are we using</b>
