@@ -448,17 +448,20 @@ image: "og-communityday.png"
       <div class="row pt-4 pb-4">
         <div class="col d-flex align-items-center">
             <span class="p-2">
-              <img src="/content/speakers/2024/unknown.png" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
+              <img src="/content/speakers/2024/ronnie_degiorgio.png" alt="Speaker Image" class="rounded-circle communityday-sponsor-small">
             </span>
             <span class="d-flex align-items-center">
               <div>
-                <div class="d-flex justify-content-center font-weight-bold p-2 lead">TBD</div>
-                <div class="d-flex text-center">Someone interesting @ Trustpilot </div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Ronnie de Giorgio <a href="https://www.linkedin.com/in/rondegiorgio/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex text-center">Data Scientist @ Nordea </div>
               </div>
             </span>
         </div>
         <div class="col">
-              <b>Coming soon</b>
+              <b>Scaling Platforms Reliably: Empowering software engineers to deploy AWS infrastructure in a scalable, secure and reliable manner in Trustpilot</b>
+              <p>
+                In this talk, we will discuss the power of Infrastructure as Code (IaC) and automation and the importance of empowering engineers with the right skills and tools to deploy AWS infrastructure in a self-service manner. Additionally, I'll share what we have learned along our journey at Trustpilot
+              </p>
         </div>
       </div>
 
