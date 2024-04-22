@@ -730,7 +730,6 @@ image: "og-communityday.png"
     <b>Jimmy Dahlqvist</b><br>
     <b>Anurag Kale</b><br>
     <b>Pekka Malmirae</b><br>
-    <b>Arne Solheim</b>
   </p>
   <a name="previous"></a>
   <h2 class="mt-4">Previous events</h2>
