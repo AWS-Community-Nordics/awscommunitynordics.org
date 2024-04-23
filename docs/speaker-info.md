@@ -48,7 +48,7 @@ image: "og-communityday.png"
   <a name="dinner"></a>
   <h2 class="mt-4">Speaker Dinner</h2>
   <p class="mt-4">
-    We will soon let you know about the speaker dinner arrangement.
+    We will soon let you know about the speaker dinner arrangement, but it will happen on May 6, the day before the event.
   </p>
   <a name="equipment"></a>
   <h2 class="mt-4">Equipment</h2>
