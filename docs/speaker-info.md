@@ -82,5 +82,11 @@ image: "og-communityday.png"
   </p>
   <p>
     There will be headset or Handheld microphones. There will be connectors HDMI + Adapters ex. USBC. Microphone use is required because of venue size, background noise and because of wanting to make the content accessible for everyone.
-</p>
+  </p>
+  <p>
+    <b>Is there a deadline for slides?</b>
+  </p>
+  <p>
+      No. Make sure thought you include the slides above with sponsors reference.
+  </p>
 </div>
