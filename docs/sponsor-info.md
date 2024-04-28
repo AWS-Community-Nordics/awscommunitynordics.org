@@ -33,7 +33,7 @@ image: "og-communityday.png"
   <!-- <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.7491261483115!2d18.06549851636592!3d59.337142181661534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d5d3e1359f5%3A0xbb175cb427e51869!2sNalen!5e0!3m2!1sen!2sse!4v1567588563257!5m2!1sen!2sse" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p> -->
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
-  <p class="mt-4">Agenda will be published in the main event page. Questions about the agenda can be directed to the organizers.
+  <p class="mt-4">Agenda is available on the main event page. Questions about the agenda can be directed to the organizers.
   </p>
   <a name="benefits"></a>
   <h2 class="mt-4">Sponsor benefits</h2>
@@ -59,7 +59,10 @@ image: "og-communityday.png"
   <a name="onsite"></a>
   <h2 class="mt-4">Onsite instructions</h2>
   <p>
-  There will be a space provided for you to create a sponsor stand. You can bring up to two rollups to display on the meeting lounge area.
+  There will be a space provided for you to create a sponsor stand. The default stand is a table with a size (height) of 110cm and 70 cm wide. The space is around 3 square meters and the maximum height from the ceiling is 2.70 cm. Parking is possible if you are bringing something with your car, but you need to register with the reception.
+  </p>
+  <p>
+  You can bring your own stand/ materials and deliver it the day before between 9-17 in DGI storage room (not unpack it, DGI has another conference the whole day on 6th May). Alternatively, material can be brought on 7th May in the morning at 7.30
   </p>
   <p>
   All people entering the premises need to have their names, hence need to be registered in EventBrite. If you have people for booth duty which are not general attendees, these still need to be notified to the organizers, so we can relay the information to the site security. We can allocate a reasonable amount of non-attendee staff (2-3 people per sponsor maximum), as we are pretty much at capacity what the premises can support from safety perspective.
