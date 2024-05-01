@@ -419,7 +419,7 @@ image: "og-communityday.png"
         <div class="col">
               <b>Deploy and Customize AWS Landing Zone using AWS Control Tower Account Factory for Terraform (AFT)</b>
               <p>
-                This session will be a demo to Deploy and Customize AWS accounts using using Account Factory for Terraform (AFT) for Customizations. Session would include a demo of the AFT account-provisioning pipeline (CodePipeline) & IaC. Session is intended on a Level 200-300 for Cloud Engineers & Architects & will delve into customer experiences.
+                  In the past 5 years, Rackspace Technology Professional Services has become a trusted AWS partner in building AWS Landing Zones in EMEA. In this session, we'll dive into leveraging AWS’s ControlTower & Best Practices from Customers experiences. This session will also include a demo to Deploy and Customize AWS accounts using Account Factory for Terraform (AFT) for Provisioning new accounts & Customizations. Session would include a demo of the AFT account-provisioning pipeline (CodePipeline).
               </p>
         </div>
       </div>
