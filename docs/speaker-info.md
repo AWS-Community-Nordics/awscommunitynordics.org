@@ -50,7 +50,7 @@ image: "og-communityday.png"
   <p class="mt-4">
     We will meet on May 6, the day before the event, at 18.15 CET, at <a href="https://cofoco.dk/en/spuntino/" target="_blank">Spuntino</a>.
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.9309433524695!2d12.549558077101699!3d55.67280099815002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652530ab2eea66d%3A0x5127c5d1571cb318!2sRestaurant%20Spuntino!5e0!3m2!1sen!2sdk!4v1714667143347!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    You can reach out the place by a short walk from Kobehhavn central station.
+    <div>You can reach out the place by a short walk from Kobehhavn central station.</div>
   </p>
   <a name="equipment"></a>
   <h2 class="mt-4">Equipment</h2>
