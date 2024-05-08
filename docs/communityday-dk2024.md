@@ -13,7 +13,7 @@ image: "og-communityday.png"
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Copenhagen | Tuesday, 7 May 2024</h2>
     <h2 class="display-5 mt-4">
-      <a class="btn btn-lg btn-primary" href="https://aws-community-day-nordics-2024.eventbrite.com" role="button" target="_blank" style="margin-bottom: 0.5rem;">Registration is open</a>
+      See you next year!!!
     </h2>
   </div>
 </div>
