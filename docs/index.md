@@ -14,7 +14,7 @@ permalink: /
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
           <h2 class="mt-4">AWS Community Day 2024!</h2>
-          <p>The annual community-led event will be held in Copenhagen Tuesday, May 7 2024.</p>
+          <p>The annual community-led event was happily held in Copenhagen Tuesday, May 7 2024, see you next year!</p>
           <p class="mt-4"><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>
         </div>
       </div>
