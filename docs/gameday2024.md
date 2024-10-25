@@ -31,25 +31,23 @@ Read more details about venues, times and signup at each individual location. Ye
 <ul>
 <li>Bergen <A HREF="https://www.meetup.com/aws-user-group-bergen/events/304039399/">https://www.meetup.com/aws-user-group-bergen/events/304039399/</A>
 
-<li>Copenhagen<A HREF="https://www.meetup.com/copenhagen-aws-user-group/events/30406256">https://www.meetup.com/copenhagen-aws-user-group/events/304062568
+<li>Copenhagen <A HREF="https://www.meetup.com/copenhagen-aws-user-group/events/30406256">https://www.meetup.com/copenhagen-aws-user-group/events/304062568
 </A>
 
-<li>Helsinki<A HREF="https://www.meetup.com/awsfin/events/304021380">https://www.meetup.com/awsfin/events/304021380/
+<li>Helsinki <A HREF="https://www.meetup.com/awsfin/events/304021380">https://www.meetup.com/awsfin/events/304021380/
 </A>
 
-<li>Jyväskylä<A HREF="https://www.meetup.com/aws-meetup-jkl/events/304142091/">https://www.meetup.com/aws-meetup-jkl/events/304142091/
+<li>Jyväskylä <A HREF="https://www.meetup.com/aws-meetup-jkl/events/304142091/">https://www.meetup.com/aws-meetup-jkl/events/304142091/
 </A>
 
 <li>Oslo <A HREF="https://www.meetup.com/aws-user-group-norway/events/304055850/">https://www.meetup.com/aws-user-group-norway/events/304055850/
 </A>
 
-<li>Tampere<A HREF="https://www.meetup.com/aws-user-group-tampere/events/304132543/
+<li>Tampere <A HREF="https://www.meetup.com/aws-user-group-tampere/events/304132543/
 ">https://www.meetup.com/aws-user-group-tampere/events/304132543/
 </A>
 
 <li>Trondheim <A HREF="https://www.meetup.com/aws-user-group-trondheim/events/303723106/">https://www.meetup.com/aws-user-group-trondheim/events/303723106/
 </A>
-</li>
-<li>
 </ul>
 
