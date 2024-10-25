@@ -9,13 +9,13 @@ permalink: /
     <li data-target="#carousel-index" data-slide-to="1"></li>
     <li data-target="#carousel-index" data-slide-to="2"></li>
   </ol>
-    <div class="carousel-item communityday active">
+    <div class="carousel-item gameday active">
       <div class="container">
         <div class="carousel-caption text-center">
-          <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
-          <h2 class="mt-4">AWS Community Day 2024!</h2>
-          <p>The annual community-led event was happily held in Copenhagen Tuesday, May 7 2024, see you next year!</p>
-          <p class="mt-4"><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>
+          <h1><img src="/content/img/gameday-nordics-banner.png" id="communityday-logo" /></h1>
+          <h2 class="mt-4">AWS GameDay Day 2024!</h2>
+          <p>Are you up for a challenge? Join us on 6th November 2024</p>
+          <p class="mt-4"><a class="btn btn-lg btn-primary" href="/gameday2024" role="button">Learn more</a></p>
         </div>
       </div>
     </div>
@@ -47,6 +47,7 @@ permalink: /
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+  
 </div>
 
 <div class="container">
