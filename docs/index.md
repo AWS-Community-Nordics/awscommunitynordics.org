@@ -12,10 +12,10 @@ permalink: /
     <div class="carousel-item gameday active">
       <div class="container">
         <div class="carousel-caption text-center">
-          <h1></h1>
+          <h1><img src="/content/img/gameday-nordics-banner.png" id="gameday-logo" /></h1>
           <h2 class="mt-4">AWS GameDay Nordics 2024!</h2>
           <p>Join us on November 6th in Denmark, Norway and Finland</p>
-          <p class="mt-4"><a class="btn btn-lg btn-primary" href="/gameday2024.md" role="button">Learn more</a></p>
+          <p class="mt-4"><a class="btn btn-lg btn-primary" href="/gameday2024" role="button">Learn more</a></p>
         </div>
       </div>
     </div>
