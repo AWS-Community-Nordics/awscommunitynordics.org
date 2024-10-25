@@ -9,6 +9,16 @@ permalink: /
     <li data-target="#carousel-index" data-slide-to="1"></li>
   </ol>
   <div class="carousel-inner">
+      <div class="carousel-item gameday active">
+      <div class="container">
+        <div class="carousel-caption text-center">
+          <h1><img src="/content/img/gameday-nordics.webp" id="communityday-logo" /></h1>
+          <h2 class="mt-4">AWS GameDay Nordics 2024!</h2>
+          <p>Join us on November 6th in Denmark, Norway and Finland</p>
+          <p class="mt-4"><a class="btn btn-lg btn-primary" href="/gameday2024.md" role="button">Learn more</a></p>
+        </div>
+      </div>
+    </div>
     <div class="carousel-item communityday active">
       <div class="container">
         <div class="carousel-caption text-center">
