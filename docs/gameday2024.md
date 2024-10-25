@@ -24,7 +24,7 @@ AWS GameDay is a gamified learning event that challenges participants to use AWS
 This AWS GameDay has tasks that are suited towards people with operations, architecture or development skills - though teams are not necessarily penalized if they are not strong in all of these areas. It has a heavy focus on security and vulnerability related tasks. The GameDay implements continuous scoring, where teams can lose points while deployed infrastructure is compromised, or while things are broken. The game is designed for players with general knowledge of the AWS platform and services, as well as interest in security.
 </P>
 <P>
-Read more details about venues, times and signup at each individual location. Yes, you have to be present to participate. 
+Read more details about venues, times and signup at each individual location. Yes, you have to be present at a location to participate. 
 </P>
 
 <h2 class="mt-5">Locations</h2>
