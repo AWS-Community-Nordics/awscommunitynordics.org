@@ -19,7 +19,7 @@ permalink: /
         </div>
       </div>
     </div>
-    <div class="carousel-item communityday active">
+    <div class="carousel-item communityday">
       <div class="container">
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
