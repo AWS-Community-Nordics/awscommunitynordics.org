@@ -31,7 +31,7 @@ Read more details about venues, times and signup at each individual location. Ye
 <ul>
 <li>Bergen <A HREF="https://www.meetup.com/aws-user-group-bergen/events/304039399/">https://www.meetup.com/aws-user-group-bergen/events/304039399/</A></li>
 
-<li>Copenhagen <A HREF="https://www.meetup.com/copenhagen-aws-user-group/events/30406256">https://www.meetup.com/copenhagen-aws-user-group/events/304062568
+<li>Copenhagen <A HREF="https://www.meetup.com/copenhagen-aws-user-group/events/304062568">https://www.meetup.com/copenhagen-aws-user-group/events/304062568
 </A></li>
 
 <li>Helsinki <A HREF="https://www.meetup.com/awsfin/events/304021380">https://www.meetup.com/awsfin/events/304021380/
