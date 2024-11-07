@@ -13,7 +13,8 @@ navigation: "GameDay 2024"
 </div>
 
 <div class="container">
-<h2>Are you up for the challenge?</h2>
+<h2>THIS EVENT HAS ENDED</h2>
+<h2><S>Are you up for the challenge? (November 6th, 2024)</h2>
 <P>
 Bring your laptop and join the fun! You will be part of a local team of 3-4 people taking responsibility to keep an existing system alive and well. You will work in the console to solve tasks and challenges in a hectic way, just like you encounter when you get an incident at work. The scoreboard will update live during the event for all teams across the nordics. 
 </P>
@@ -26,7 +27,7 @@ This AWS GameDay has tasks that are suited towards people with operations, archi
 <P>
 Read more details about venues, times and signup at each individual location. Yes, you have to be present at a location to participate. 
 </P>
-
+</S>
 <h2 class="mt-5">Locations</h2>
 <ul>
 <li>Bergen <A HREF="https://www.meetup.com/aws-user-group-bergen/events/304039399/">https://www.meetup.com/aws-user-group-bergen/events/304039399/</A></li>
