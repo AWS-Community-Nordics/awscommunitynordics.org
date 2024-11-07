@@ -8,7 +8,7 @@ permalink: /
     <li data-target="#carousel-index" data-slide-to="0" class="active"></li>
     <li data-target="#carousel-index" data-slide-to="1"></li>
   </ol>
-    <div class="carousel-item communityday">
+    <div class="carousel-item communityday active">
       <div class="container">
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
