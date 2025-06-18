@@ -60,15 +60,15 @@ image: "og-communityday.png"
 
   <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
 
-  <h3 class="mt-4">Platinum Sponsors</h3>
+  <!-- Elva - Larger, on first line -->
   <div class="row pt-5">
-    <div class="col text-center"><a href="#" target="_blank"><img src="/content/img/elva_logo.png" class="communityday-sponsor-large" style="max-height: 160px; width: auto;"></a></div>
+    <div class="col text-center"><a href="#" target="_blank"><img src="/content/img/elva_logo.png" class="communityday-sponsor-large" style="max-height: 180px; width: auto;"></a></div>
   </div>
 
-  <h3 class="mt-4">Gold Sponsors</h3>
-  <div class="row pt-3">
-    <!-- <div class="col-5 offset-1 text-center"><a href="https://aws.amazon.com/" target="_blank"><img src="/content/img/sponsor_aws.png" class="communityday-sponsor-large"></a></div> -->
-    <div class="col-6 offset-3 text-center"><a href="#" target="_blank"><img src="/content/img/stampen_media_logo.png" class="communityday-sponsor-large"></a></div>
+  <!-- Stampen Media and Cloud Family - Smaller, on second line -->
+  <div class="row pt-4">
+    <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/stampen_media_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
+    <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/cloud_family_logo2.jpg" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
   </div>
 
   <p class="mt-5 text-center">Interested in sponsoring? Please reach out to any of the organizers on LinkedIn.</p>
