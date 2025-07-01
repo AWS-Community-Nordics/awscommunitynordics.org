@@ -41,7 +41,7 @@ image: "og-communityday.png"
 
 <a name="tickets"></a>
 <h2 class="mt-4">Tickets</h2>
-  <div>The event is free, but you need to register. Registration will open soon!</div>
+  <div>The event is free, but you need to register. <a href="https://acd-nordics-2025.eventbrite.se/" target="_blank">Register now!</a></div>
 
 <a name="agenda"></a>
 <h2 class="mt-4">Agenda</h2>
