@@ -65,10 +65,16 @@ image: "og-communityday.png"
     <div class="col text-center"><a href="#" target="_blank"><img src="/content/img/elva_logo.png" class="communityday-sponsor-large" style="max-height: 180px; width: auto;"></a></div>
   </div>
 
-  <!-- Stampen Media and Cloud Family - Smaller, on second line -->
-  <div class="row pt-4">
+  <!-- Stampen Media and Cloud Family - Second row -->
+  <div class="row pt-5">
     <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/stampen_media_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
     <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/cloud_family_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
+  </div>
+
+  <!-- GitLab and Eficode - Third row -->
+  <div class="row pt-5">
+    <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/gitlab_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
+    <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/eficode_logo_text.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
   </div>
 
   <p class="mt-5 text-center">Interested in sponsoring? Please reach out to any of the organizers on LinkedIn.</p>
