@@ -51,9 +51,7 @@ image: "og-communityday.png"
 <a name="speakers"></a>
 <h2 class="mt-4">Talks &amp; Speakers</h2>
 
-<p>Speaker lineup will be announced soon. We're looking for passionate AWS community members to share their knowledge and experience.</p>
-
-<p>If you're interested in speaking at AWS Community Day Nordics 2025, submit your session proposal <a href="https://sessionize.com/aws-community-day-nordics-2025" target="blank">here!</a></p>
+<p>The call for speakers has closed. Speaker lineup will be announced soon!</p>
 
 <a name="sponsors"></a>
 <h2 class="mt-4">Sponsors</h2>
