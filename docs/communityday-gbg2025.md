@@ -77,6 +77,11 @@ image: "og-communityday.png"
     <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/eficode_logo_text.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
   </div>
 
+  <!-- AWS - Fourth row, smaller -->
+  <div class="row pt-5">
+    <div class="col text-center"><a href="#" target="_blank"><img src="/content/img/sponsor_aws.svg" class="communityday-sponsor-small" style="max-height: 70px; width: auto;"></a></div>
+  </div>
+
   <p class="mt-5 text-center">Interested in sponsoring? Please reach out to any of the organizers on LinkedIn.</p>
 
 <a name="contact"></a>
