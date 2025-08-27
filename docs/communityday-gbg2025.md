@@ -67,14 +67,14 @@ image: "og-communityday.png"
 
   <!-- Stampen Media and Cloud Family - Second row -->
   <div class="row pt-5">
-    <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/stampen_media_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
-    <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/cloud_family_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
+    <div class="col-12 col-md-6 text-center mb-3 mb-md-0"><a href="#" target="_blank"><img src="/content/img/stampen_media_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
+    <div class="col-12 col-md-6 text-center"><a href="#" target="_blank"><img src="/content/img/cloud_family_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
   </div>
 
   <!-- GitLab and Eficode - Third row -->
   <div class="row pt-5">
-    <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/gitlab_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
-    <div class="col-6 text-center"><a href="#" target="_blank"><img src="/content/img/eficode_logo_text.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
+    <div class="col-12 col-md-6 text-center mb-3 mb-md-0"><a href="#" target="_blank"><img src="/content/img/gitlab_logo.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
+    <div class="col-12 col-md-6 text-center"><a href="#" target="_blank"><img src="/content/img/eficode_logo_text.png" class="communityday-sponsor-large" style="max-height: 80px; width: auto;"></a></div>
   </div>
 
   <!-- AWS - Fourth row, smaller -->
