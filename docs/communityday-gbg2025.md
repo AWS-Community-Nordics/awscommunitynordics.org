@@ -45,13 +45,8 @@ image: "og-communityday.png"
 
 <a name="agenda"></a>
 <h2 class="mt-4">Agenda</h2>
-
-<p>Agenda will be published soon. Stay tuned!</p>
-
+<script type="text/javascript" src="https://sessionize.com/api/v2/cd7ls0is/view/GridSmart"></script>
 <a name="speakers"></a>
-<h2 class="mt-4">Talks &amp; Speakers</h2>
-
-<p>The call for speakers has closed. Speaker lineup will be announced soon!</p>
 
 <a name="sponsors"></a>
 <h2 class="mt-4">Sponsors</h2>
@@ -143,7 +138,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Caroline Cah <a href="https://www.linkedin.com/in/caroline-cah-362637138/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">Product Owner @Aurobay | AWS Community Builder | AWS Women's User Group Sweden Organizer</div>
+                <div class="d-flex text-center">Team Manager (Software & Cloud @Knightec Group | AWS Community Builder | AWS Women's User Group Sweden Organizer</div>
               </div>
             </span>
         </div>
