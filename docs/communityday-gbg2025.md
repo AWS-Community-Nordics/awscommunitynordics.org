@@ -129,7 +129,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Andreas Casen <a href="https://www.linkedin.com/in/andreascasen/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">Software Developer @Stampen Media | AWS Community Builder | Gothenburg Meetup Organizer</div>
+                <div class="d-flex text-center">Fullstack Developer @Stena Metall Group | AWS Community Builder | Gothenburg Meetup Organizer</div>
               </div>
             </span>
         </div>
@@ -143,7 +143,7 @@ image: "og-communityday.png"
             <span class="d-flex align-items-center">
               <div>
                 <div class="d-flex justify-content-center font-weight-bold p-2 lead">Caroline Cah <a href="https://www.linkedin.com/in/caroline-cah-362637138/" target="_blank" class="pl-2"><i class="fab fa-linkedin"></i></a></div>
-                <div class="d-flex text-center">Product Owner @Aurobay | AWS Community Builder | AWS Women's User Group Sweden Organizer</div>
+                <div class="d-flex text-center">Team Manager (Software & Cloud) @Knightec Group | AWS Community Builder | AWS Women's User Group Sweden Organizer</div>
               </div>
             </span>
         </div>
