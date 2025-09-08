@@ -46,7 +46,7 @@ image: "og-communityday.png"
 <a name="agenda"></a>
 <h2 class="mt-4">Agenda</h2>
 
-<p>Agenda will be published soon. Stay tuned!</p>
+<script type="text/javascript" src="https://sessionize.com/api/v2/cd7ls0is/view/GridSmart"></script>
 
 <a name="speakers"></a>
 <h2 class="mt-4">Talks &amp; Speakers</h2>
