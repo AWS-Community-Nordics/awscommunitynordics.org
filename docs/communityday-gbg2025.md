@@ -20,7 +20,6 @@ image: "og-communityday.png"
   <div class="row pt-4">
     <div class="col text-center"><h5><a href="#tickets">Tickets</a></h5></div>
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
-    <div class="col text-center"><h5><a href="#speakers">Talks &amp; Speakers</a></h5></div>
     <div class="col text-center"><h5><a href="#sponsors">Sponsors</a></h5></div>
   </div>
 
@@ -47,11 +46,6 @@ image: "og-communityday.png"
 <h2 class="mt-4">Agenda</h2>
 
 <script type="text/javascript" src="https://sessionize.com/api/v2/cd7ls0is/view/GridSmart"></script>
-
-<a name="speakers"></a>
-<h2 class="mt-4">Talks &amp; Speakers</h2>
-
-<p>The call for speakers has closed. Speaker lineup will be announced soon!</p>
 
 <a name="sponsors"></a>
 <h2 class="mt-4">Sponsors</h2>
