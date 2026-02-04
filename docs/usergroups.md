@@ -25,7 +25,6 @@ permalink: /usergroups/
       <ul>
         <li><a href="https://www.meetup.com/AWS-User-Group-Norway/">Oslo</a></li>
         <li><a href="https://www.meetup.com/AWS-User-Group-Bergen/">Bergen</a></li>
-        <li><a href="https://www.meetup.com/AWS-User-Group-Trondheim">Trondheim</a></li>
         <li><a href="https://www.meetup.com/AWS-User-Group-Stavanger/">Stavanger</a></li>
       </ul>
     </div>
