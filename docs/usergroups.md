@@ -14,9 +14,7 @@ permalink: /usergroups/
         <li><a href="https://www.meetup.com/aws-stockholm/">Stockholm</a></li>
         <li><a href="https://www.meetup.com/AWS_user_group_Gothenburg/">Gothenburg</a></li>
         <li><a href="https://www.meetup.com/AWS-User-Group-Jonkoping/">Jönköping</a></li>
-        <li><a href="https://www.meetup.com/AWS-Karlstad/">Karlstad</a></li>
         <li><a href="https://www.meetup.com/aws-user-group-skane/">Skåne</a></li>
-        <li><a href="https://www.meetup.com/AWS-User-Group-Sundsvall/">Sundsvall</a></li>
         <li><a href="https://www.meetup.com/aws-user-group-orebro/">Örebro</a></li>
       </ul>
     </div>
