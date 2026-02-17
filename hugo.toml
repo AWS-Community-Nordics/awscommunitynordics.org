@@ -1,0 +1,7 @@
+baseURL = "https://awscommunitynordics.org"
+languageCode = "en"
+title = "AWS Community Nordics"
+disableKinds = ["taxonomy", "term"]
+
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,8 +1,7 @@
 ---
-layout: default
 title:  "AWS Community Nordics - Code of Conduct"
-navigation: "Code of Conduct"
-permalink: /code-of-conduct/
+navigation: "code-of-conduct"
+url: /code-of-conduct/
 ---
 
 

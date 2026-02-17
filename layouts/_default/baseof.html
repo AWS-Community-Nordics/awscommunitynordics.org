@@ -12,25 +12,25 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <link rel="canonical" href="{{ .Permalink }}" />
   <link rel="icon" type="image/png" href="/content/img/favicon.png" />
   <link rel="stylesheet" href="/assets/bootstrap-4.1.3/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
   <link rel="stylesheet" href="/content/default.css" />
 
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
-  <meta property="og:image" content="{{ site.url }}/content/img/{% if page.image %}{{ page.image }}{% else %}og-default.jpg{% endif %}" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <meta property="og:updated_time" content="{{ 'now' | date: "%Y-%m-%dT%H:%M:%S%:z" }}">
+  <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
+  {{ if .Description }}<meta property="og:description" content="{{ .Description }}" />{{ end }}
+  <meta property="og:image" content="{{ with .Params.image }}{{ printf "content/img/%s" . | absURL }}{{ else }}{{ "content/img/og-default.jpg" | absURL }}{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:updated_time" content="{{ now.Format "2006-01-02T15:04:05-07:00" }}">
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  {% if page.description %}<meta name="twitter:description" content="{{ page.description }}" />{% endif %}
+  <meta name="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
+  {{ if .Description }}<meta name="twitter:description" content="{{ .Description }}" />{{ end }}
   <meta name="twitter:site" content="@awsnordics" />
   <meta name="twitter:creator" content="@awsnordics" />
-  <meta name="twitter:image" content="{{ site.url }}/content/img/{% if page.image %}{{ page.image }}{% else %}og-default.jpg{% endif %}">
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ printf "content/img/%s" . | absURL }}{{ else }}{{ "content/img/og-default.jpg" | absURL }}{{ end }}">
 
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
 </head>
 <body>
 
@@ -40,9 +40,9 @@
       <div class="d-flex ml-auto"><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#globalNavbar" aria-controls="globalNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button></div>
       <div class="collapse navbar-collapse" id="globalNavbar">
         <ul class="navbar-nav mr-auto order-1">
-          <li class="nav-item{% if page.navigation == "usergroups" %} active{% endif %}"><a class="nav-link" href="/usergroups/">User Groups{% if page.navigation == "usergroups" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
-          <li class="nav-item{% if page.navigation == "communityday" %} active{% endif %}"><a class="nav-link" href="/communityday/">Community Day{% if page.navigation == "communityday" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
-          <li class="nav-item{% if page.navigation == "code-of-conduct" %} active{% endif %}"><a class="nav-link" href="/code-of-conduct/">Code of Conduct{% if page.navigation == "code-of-conduct" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
+          <li class="nav-item{{ if eq .Params.navigation "usergroups" }} active{{ end }}"><a class="nav-link" href="/usergroups/">User Groups{{ if eq .Params.navigation "usergroups" }} <span class="sr-only">(current)</span>{{ end }}</a></li>
+          <li class="nav-item{{ if eq .Params.navigation "communityday" }} active{{ end }}"><a class="nav-link" href="/communityday/">Community Day{{ if eq .Params.navigation "communityday" }} <span class="sr-only">(current)</span>{{ end }}</a></li>
+          <li class="nav-item{{ if eq .Params.navigation "code-of-conduct" }} active{{ end }}"><a class="nav-link" href="/code-of-conduct/">Code of Conduct{{ if eq .Params.navigation "code-of-conduct" }} <span class="sr-only">(current)</span>{{ end }}</a></li>
         </ul>
         <ul class="navbar-nav order-2">
           <li class="nav-item slack"><a class="nav-link" href="https://join.slack.com/t/aws-community-nordics/shared_invite/zt-2fas3o2sj-wtuPDWbePv8rnfWDI~p7lA" target="_blank"><i class="fab fa-slack"></i></a></li>
@@ -52,7 +52,7 @@
   </nav>
 
   <main role="main">
-{{ content }}
+{{ block "main" . }}{{ end }}
     <footer class="container">
       <p class="float-right"><a href="#">Back to top</a></p>
       <p><a href="https://aws.amazon.com/codesofconduct/">AWS Community Codes of Conduct</a> | <a href="https://github.com/AWS-Community-Nordics/">Built with love by vikings</a></p>

@@ -1,9 +1,8 @@
 ---
-layout: default
 title:  "AWS Community Day Nordics - Speaker Info"
 description: "The AWS Community Day speaker info"
 navigation: "speaker-info"
-permalink: /speaker-info/
+url: /speaker-info/
 image: "og-communityday.png"
 ---
 

@@ -1,8 +1,7 @@
 ---
-layout: default
 title:  "AWS re:Invent Community Recap Tour Nordics 2019"
 navigation: "reinventrecaptour2019"
-permalink: /reinventrecaptour2019/
+url: /reinventrecaptour2019/
 image: "og-reinventrecaptour2019.png"
 ---
 

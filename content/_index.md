@@ -1,6 +1,4 @@
 ---
-layout: default
-permalink: /
 ---
 
 <div id="carousel-index" class="carousel slide" data-ride="carousel">

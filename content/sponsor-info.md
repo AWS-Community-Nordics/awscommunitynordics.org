@@ -1,9 +1,8 @@
 ---
-layout: default
 title:  "AWS Community Day Nordics - Sponsor Info"
 description: "The AWS Community Day sponsor info"
 navigation: "sponsor-info"
-permalink: /sponsor-info/
+url: /sponsor-info/
 image: "og-communityday.png"
 ---
 
