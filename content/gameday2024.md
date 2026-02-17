@@ -1,7 +1,6 @@
 ---
-layout: default
 title:  "AWS GameDay Nordics 2024"
-permalink: /gameday2024
+url: /gameday2024/
 navigation: "GameDay 2024"
 ---
 

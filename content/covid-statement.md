@@ -1,8 +1,7 @@
 ---
-layout: default
 title:  "AWS Community Nordics - COVID-19 statement"
 navigation: "covid-statement"
-permalink: /covid-statement/
+url: /covid-statement/
 ---
 
 

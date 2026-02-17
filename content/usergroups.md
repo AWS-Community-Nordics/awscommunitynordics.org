@@ -1,8 +1,7 @@
 ---
-layout: default
 title:  "User Groups"
 navigation: "usergroups"
-permalink: /usergroups/
+url: /usergroups/
 ---
 
 <div class="container">

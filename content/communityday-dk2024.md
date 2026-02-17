@@ -1,10 +1,9 @@
 ---
-layout: default
 title:  "AWS Community Day Nordics in Copenhagen 2024"
 description: "The AWS Community Day is a free full day event for AWS users organized by the Nordic AWS community. In
 2024 the event is held in Copenhagen."
 navigation: "communityday-2024"
-permalink: /communityday/2024/
+url: /communityday/2024/
 image: "og-communityday.png"
 ---
 

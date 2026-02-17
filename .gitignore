@@ -1,8 +1,10 @@
 .DS_Store
-.jekyll-metadata
 
-_site/
-.bundle/
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
 node_modules/
 
 *.log
