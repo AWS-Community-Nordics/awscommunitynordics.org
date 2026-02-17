@@ -4,6 +4,11 @@ This is the repository of the website [awscommunitynordics.org](https://awscommu
 
 It is built with [Hugo](https://gohugo.io/) and hosted on [Netlify](https://www.netlify.com/). Pushing to the `master` branch triggers an automatic deploy.
 
+## Branches
+
+- **`master`** -- Production. Pushing here deploys the live site immediately. Use for small, safe content changes.
+- **`develop`** -- Staging. Use for larger changes such as layout updates, template changes, new features, or anything you want reviewed before going live. When ready, open a pull request from `develop` to `master`.
+
 ## Making content changes directly on GitHub
 
 You don't need to install anything locally for small content changes like updating event details, fixing typos, or adding speakers. You can edit files directly on GitHub:
@@ -14,6 +19,8 @@ You don't need to install anything locally for small content changes like updati
 4. Scroll down, write a commit message, and commit directly to `master` (or create a branch and open a pull request if you prefer a review)
 
 Netlify will automatically build and deploy your changes within a couple of minutes.
+
+For larger changes (templates, layouts, configuration, CSS), commit to the `develop` branch instead and open a pull request to `master` when ready.
 
 ### Where to find content files
 
