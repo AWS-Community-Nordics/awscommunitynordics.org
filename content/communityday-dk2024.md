@@ -714,7 +714,7 @@ image: "og-communityday.png"
             </span>
             <span class="d-flex align-items-center">
               <div>
-                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank" class="pl-1"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank" class="pl-1"><i class="fab fa-linkedin"></i></a></div>
+                <div class="d-flex justify-content-center font-weight-bold p-2 lead">Lezgin Zilan <a href="https://twitter.com/lerra82" target="_blank" class="pl-1"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-b-2239b93/" target="_blank" class="pl-1"><i class="fab fa-linkedin"></i></a></div>
                 <div class="d-flex text-center">CT0 @Qred | AWS Community builder | Sec-t(.org) | AWS Stockholm meetup organizer</div>
               </div>
             </span>

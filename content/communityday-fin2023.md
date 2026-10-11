@@ -76,7 +76,7 @@ image: "og-communityday.png"
                   <b>Opening Remarks</b>
                   <p>
                     Rolf Koski <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-                    Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+                    Lezgin Zilan <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-b-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
                     Antonio Lagrotteria <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
                   </p>
                 </td>
@@ -244,7 +244,7 @@ image: "og-communityday.png"
 				    <b>Closing Remarks and Community Raffle</b>
 				    <p>
                       Rolf Koski <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-                      Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+                      Lezgin Zilan <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-b-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
                       Antonio Lagrotteria <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </p>
 				  </td>
@@ -425,7 +425,7 @@ image: "og-communityday.png"
     <b>Rolf Koski</b> - VP of Technology at Knowit <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>Lezgin Bakircioglu</b> - CTO at Qred <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <b>Lezgin Zilan</b> - CTO at Qred <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-b-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
     <b>Antonio Lagrotteria</b> - Principal Architect at Nordea <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
