@@ -147,7 +147,7 @@ image: "og-communityday.png"
 
 <h3>Supporting Organizers</h3>
   <p>
-    <a href="https://www.linkedin.com/in/lezgin-b-2239b93/" target="_blank"><b>Lezgin Bakircioglu</b></a><br>
+    <a href="https://www.linkedin.com/in/lezgin-b-2239b93/" target="_blank"><b>Lezgin Zilan</b></a><br>
     <a href="https://www.linkedin.com/in/rolle/" target="_blank"><b>Rolf Koski</b></a><br>
     <a href="https://www.linkedin.com/in/dahlqvistjimmy/" target="_blank"><b>Jimmy Dahlqvist</b></a><br>
     <a href="https://www.linkedin.com/in/suzanamelomoraes/" target="_blank"><b>Suzana Melo</b></a><br>
